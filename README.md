@@ -62,8 +62,6 @@ Realiza tus compras de manera segura y eficiente a través de nuestra pasarela d
 ## AUTENTICACIÓN DE USUARIOS
 Regístrate y accede de manera segura a tu cuenta en Maybelline Beauty Hub.
 
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/87a40f17-12f5-4686-8a15-4eced866fbf9)
-
 ### CONTACTO
 - ☎️ Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, te invitamos a visitar mi perfil de [LinkedIn](linkedin.com/in/macarena-castillo-366173288) o a comunicarte conmigo vía email: [macarenacastilloruiz@gmail.com](mailto:macarenacastilloruiz@gmail.com).
 
