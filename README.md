@@ -28,6 +28,11 @@ Explora nuestra amplia gama de productos de belleza de alta calidad. Desde maqui
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/d3dfb406-dd01-4beb-bd68-fac6984f70e9)
 
+## DETALLE 
+
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ccbb5222-1d92-496b-9a24-800d0bff35cc)
+
+
 ## TUTORIALES
 Aprende a lucir increíble con nuestros tutoriales de belleza. Desde consejos de maquillaje hasta rutinas de cuidado de la piel, te ayudaremos a destacar.
 
