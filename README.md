@@ -1,38 +1,37 @@
-ssss# Maybelline Beauty Hub
+# MAYBELLYNE
 
-## Descripción
+## DESCRIPCIÓN
 Bienvenido a Maybelline Beauty Hub, tu destino definitivo para explorar y experimentar con los productos de belleza más innovadores y emocionantes. Nos enorgullece ofrecerte una amplia gama de productos de belleza de alta calidad y los más vendidos, tutoriales inspiradores para ayudarte a lucir lo mejor de ti misma.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/21d45037-3ddc-4d9c-8659-90719028d9ee)
 
 
-## Landing
+## LANDING
 Descubre el mundo de la belleza con Maybelline Beauty Hub. Explora nuestros productos, sigue tutoriales de belleza inspiradores y mantente al día con las últimas tendencias. ¡Tu belleza, tu elección!
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a48a1e39-a382-4a59-befa-a31137fa5a41)
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/5ddc8742-3b32-4016-b0d6-0a3b65044b1d)
 
-## Sección de Más Vendidos
+## MÁS VENDIDOS
 Descubre nuestros productos más populares y queridos por nuestros clientes. Encuentra los favoritos de Maybelline y descubre por qué son tan apreciados.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/161434d7-02b4-4701-93f1-e68f94377a2b)
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/46ae5842-cd33-4483-b825-84473da7b8cb)
 
-
-## Sección de Productos
+## SECCIÓN DE PRODUCTOS
 Explora nuestra amplia gama de productos de belleza de alta calidad. Desde maquillaje hasta cuidado de la piel, tenemos todo lo que necesitas para realzar tu belleza.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/d3dfb406-dd01-4beb-bd68-fac6984f70e9)
 
+## FOOTER
 
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/3029a175-d73f-41b5-9cdf-10abe453f8a7)
 
 ## Sección de Tutoriales
 Aprende a lucir increíble con nuestros tutoriales de belleza. Desde consejos de maquillaje hasta rutinas de cuidado de la piel, te ayudaremos a destacar.
 
-
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/c363b3d3-95cb-4450-9299-85a4ec60d2e2)
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/b65fea28-a147-46a8-a670-618c97aa8549)
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/2b638db6-c228-43a4-9104-c9a610454ec3)
 
