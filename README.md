@@ -3,15 +3,19 @@ ssss# Maybelline Beauty Hub
 ## Descripción
 Bienvenido a Maybelline Beauty Hub, tu destino definitivo para explorar y experimentar con los productos de belleza más innovadores y emocionantes. Nos enorgullece ofrecerte una amplia gama de productos de belleza de alta calidad y los más vendidos, tutoriales inspiradores para ayudarte a lucir lo mejor de ti misma.
 
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/db7e36dd-c00b-4e4a-bc65-f1ce2d8ee68b)
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/21d45037-3ddc-4d9c-8659-90719028d9ee)
+
 
 ## Landing
 Descubre el mundo de la belleza con Maybelline Beauty Hub. Explora nuestros productos, sigue tutoriales de belleza inspiradores y mantente al día con las últimas tendencias. ¡Tu belleza, tu elección!
 
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/c363b3d3-95cb-4450-9299-85a4ec60d2e2)
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/b65fea28-a147-46a8-a670-618c97aa8549)
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/2b638db6-c228-43a4-9104-c9a610454ec3)
+
+
+
+
+
+
+
 
 
 
@@ -28,6 +32,11 @@ Descubre nuestros productos más populares y queridos por nuestros clientes. Enc
 
 ## Sección de Tutoriales
 Aprende a lucir increíble con nuestros tutoriales de belleza. Desde consejos de maquillaje hasta rutinas de cuidado de la piel, te ayudaremos a destacar.
+
+
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/c363b3d3-95cb-4450-9299-85a4ec60d2e2)
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/b65fea28-a147-46a8-a670-618c97aa8549)
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/2b638db6-c228-43a4-9104-c9a610454ec3)
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/db19e9c0-3018-4fdc-8048-1f9cebda7149)
 
