@@ -58,6 +58,8 @@
 
 ## 🌹 API REST 🌹
 - Accede a nuestra API REST para obtener información actualizada sobre nuestros productos y accesorios de belleza.
+- 
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/81ce9952-1696-422b-89b7-c3331a2fd1c5)
 
 
 ## 🌹 CARRITO DE COMPRAS 🌹
