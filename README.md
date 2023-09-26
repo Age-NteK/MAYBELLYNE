@@ -26,7 +26,7 @@
 ## 🌹 DETALLE 🌹
 - En la sección de detalle del producto, te invitamos a explorar en profundidad todos los aspectos de nuestros productos excepcionales.
 
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ccbb5222-1d92-496b-9a24-800d0bff35cc)
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
 
 
 ## 🌹 TUTORIALES 🌹
