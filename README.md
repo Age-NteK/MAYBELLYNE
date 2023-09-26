@@ -19,6 +19,7 @@ Descubre nuestros productos más populares y queridos por nuestros clientes. Enc
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/161434d7-02b4-4701-93f1-e68f94377a2b)
 
 ## FOOTER
+El footer de la aplicación brinda a los usuarios acceso rápido a información relevante y funciones esenciales. 
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ff014086-7218-4a05-8f57-43e796cb1f82)
 
@@ -29,6 +30,7 @@ Explora nuestra amplia gama de productos de belleza de alta calidad. Desde maqui
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/d3dfb406-dd01-4beb-bd68-fac6984f70e9)
 
 ## DETALLE 
+En la sección de detalle del producto, te invitamos a explorar en profundidad todos los aspectos de nuestros productos excepcionales.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ccbb5222-1d92-496b-9a24-800d0bff35cc)
 
