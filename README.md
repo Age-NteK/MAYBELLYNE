@@ -1,4 +1,4 @@
-# 💋 MAYBELLYNE 💋
+# 💋 MAYBELLINE 💋
  
 ## 🌹 DESCRIPCIÓN 🌹
 - Bienvenido a Maybelline Beauty Hub, tu destino definitivo para explorar y experimentar con los productos de belleza más innovadores y emocionantes. Nos enorgullece ofrecerte una amplia gama de productos de belleza de alta calidad y los más vendidos, tutoriales inspiradores para ayudarte a lucir lo mejor de ti misma.
