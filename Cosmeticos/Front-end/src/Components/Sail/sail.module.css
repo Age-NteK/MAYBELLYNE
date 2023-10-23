@@ -1,0 +1,85 @@
+.home {
+  text-align: center;
+  justify-content: center;
+}
+
+.cards_container {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(200px, 1fr)
+  ); /* Ajuste automático de columnas */
+  gap: 10px; /* Espacio entre las tarjetas */
+  justify-content: center; /* Centro las tarjetas horizontalmente */
+}
+
+.cards_card {
+  display: grid;
+  grid-template-columns: repeat(
+    4,
+    1fr
+  ); /* Cuatro columnas de ancho automático */
+  justify-content: center; /* Espacio entre las columnas */
+  text-align: center;
+  grid-auto-flow: dense; /* Evitar superposición */
+  margin-top: 10px;
+}
+
+.paginado {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+}
+
+.paginado button {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+}
+
+@media (max-width: 1800px) {
+  .cards_container {
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(50%, 1fr)
+    ); /* Dos columnas de ancho automático */
+  }
+
+  .cards_card {
+    grid-template-columns: repeat(
+      4,
+      1fr
+    ); /* Tres columnas de ancho automático */
+  }
+}
+
+/* Estilo para pantallas medianas */
+@media (max-width: 1400px) {
+  .cards_container {
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(50%, 1fr)
+    ); /* Dos columnas de ancho automático */
+  }
+
+  .cards_card {
+    grid-template-columns: repeat(
+      2,
+      1fr
+    ); /* Dos columnas de ancho automático */
+  }
+}
+
+/* Estilo para pantallas pequeñas (por ejemplo, móviles) */
+@media (max-width: 924px) {
+  .cards_container {
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(100%, 1fr)
+    ); /* Una columna de ancho automático */
+  }
+
+  .cards_card {
+    grid-template-columns: 1fr; /* Una columna de ancho automático */
+  }
+}

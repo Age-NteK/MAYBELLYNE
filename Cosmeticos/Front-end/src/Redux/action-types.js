@@ -1,0 +1,14 @@
+// ! PRODUCTS
+export const GET_ALL_PRODUCTS = "GET_ALL_PRODUCTS";
+export const GET_PRODUCTS_BY_NAME = "GET_PRODUCTS_BY_NAME";
+export const GET_PRODUCTS_BY_ID = "GET_PRODUCTS_BY_ID";
+
+// ! VIDEOS
+export const GET_ALL_VIDEOS = "GET_ALL_VIDEOS";
+export const GET_VIDEO_BY_ID = "GET_VIDEO_BY_ID";
+
+// ! TUTORIALS
+export const GET_ALL_TUTORIALS = "GET_ALL_TUTORIALS";
+export const GET_TUTORIAL_BY_ID = "GET_TUTORIAL_BY_ID";
+
+export const CLEAN = "CLEAN";

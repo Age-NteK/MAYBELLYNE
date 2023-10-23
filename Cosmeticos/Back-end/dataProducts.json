@@ -1,0 +1,2530 @@
+[
+  {
+    "id_product": 1,
+    "id_section": 2,
+    "id_category": 5,
+    "brand": "Maybellyne",
+    "name": "BRILLO LABIAL LIFTER GLOSS",
+    "price": "899",
+    "rating": null,
+    "stock": 25,
+    "description": "Descubrí el nuevo brillo de labios hidratante de Maybelline New York. Su fórmula con ácido hialurónico suaviza visiblemente la superficie de los labios y realza el contorno con alto brillo. Además, su aplicador XL transforma los labios de una sola pasada con una fácil aplicación.",
+    "benefits": "Lifter Gloss realza el contorno de los labios con un gran brillo. Suaviza visiblemente la superficie de los labios debido a su rica textura y otorga máxima sensorialidad. Su fórmula con Ácido Hialurónico ofrece una hidratación duradera, sensación no pegajosa y un uso confortable.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplique brillo de labios con el aplicador XL en el centro de su labio superior y siga los contornos de su boca."
+      },
+      {
+        "step": 2,
+        "description": "Desliza el brillo de labios por todo el labio inferior."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/other/liftergloss_600x900px.jpg",
+        "alt": "Imagen de lápiz labial Lippie Pencil"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/petal/maybelline-lip-color-sensational-lifter-gloss-005-petal-a.jpg?thn=0&w=380&hash=12D675E7088D45D106062D6BFB2CDF50B28D4D2E",
+        "alt": "Imagen de lápiz labial Lippie Pencil"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/petal/maybelline-lip-color-sensational-lifter-gloss-005-petal-041554583892-t.jpg?thn=0&w=380&hash=3FCE7BEDF1391DFC4FE80CA1EDE41274F8369B53",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/petal/maybelline-lip-color-sensational-lifter-gloss-005-petal-c.jpg?thn=0&w=380&hash=A5CCF87AE2CB3AB3452A74E1902E98EAF5E2149F",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/stone/maybelline-lip-color-sensational-lifter-gloss-008-stone-041554583922-o.jpg?thn=0&w=380&hash=C71DF558BE8A9077C909FABB4B768CCF0666B33F",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/stone/maybelline-lip-color-sensational-lifter-gloss-008-stone-041554583922-t.jpg?thn=0&w=380&hash=0E7339C35983AB73B9484607CE08B5F05088CA0F",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/stone/maybelline-lip-color-sensational-lifter-gloss-001-stone-c.jpg?thn=0&w=380&hash=F1DD9B946ABC63EC02ADC8C2F755D0E8CC361F32",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/reef/maybelline-lip-color-sensational-lifter-gloss-006-reef-a.jpg?thn=0&w=380&hash=27AB66D8430168F1BD6225DBD3C2BB9A63EC6119",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/reef/maybelline-lip-color-sensational-lifter-gloss-006-reef-t.jpg?thn=0&w=380&hash=A6514EE625D8F0E532A5A9BD490E1DD08F3A28AD",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/reef/maybelline-lip-color-sensational-lifter-gloss-006-reef-c.jpg?thn=0&w=380&hash=1486C438D2676DF62F929C6D1656469B283BA860",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/amber/maybelline-lip-color-sensational-lifter-gloss-007-amber-041554583915-o.jpg?thn=0&w=380&hash=8E91BFDBAB32772B54F3C4E1909029E0543DF0EA",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/amber/maybelline-lip-color-sensational-lifter-gloss-007-amber-041554583915-t.jpg?thn=0&w=380&hash=F77A264BB8DC97B3145477F889215E893B33F631",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/lip%20gloss/amber/maybelline-lip-color-sensational-lifter-gloss-007-amber-041554583915-c.jpg?thn=0&w=380&hash=1B92CB9A6B129B87383E6BB938FD1878388C2F4B",
+        "alt": "Imagen de lip gloss Maybelline Color Sensational Lifter - Moon"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#d17070"
+      },
+      {
+        "colour": "#eec2be"
+      },
+      {
+        "colour": "#dd6f7f"
+      },
+      {
+        "colour": "#ec918f"
+      },
+      {
+        "colour": "#e98b71"
+      },
+
+      {
+        "colour": "#965564"
+      },
+
+      {
+        "colour": "#B0516F"
+      }
+    ]
+  },
+  {
+    "id_product": 2,
+    "id_section": 1,
+    "id_category": 3,
+    "brand": "Maybellyne",
+    "name": "THE FALSIES LASH LIFT WASHABLE",
+    "price": "2000",
+    "rating": null,
+    "stock": 25,
+    "description": "Mascara de pestañas para conseguir un lifting natural al instante.",
+    "benefits": "El cepillo Lash Lift de doble curva impacta en las pestañas desde la raíz para lograr el lifting. La fórmula es lavable y dura hasta por 16hs.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá el cepillo desde la raíz hasta las puntas."
+      },
+      {
+        "step": 2,
+        "description": "Repetí hasta obtener el look deseado."
+      },
+      {
+        "step": 3,
+        "description": "No dejes que la mascara se seque entre capas."
+      },
+      {
+        "step": 4,
+        "description": "Remové fácilmente con Agua Micelar."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/hp-coursel/new%20hp%20assets/new%20products%20module/falsies_lashlift_productmodule_600x900_v6%20(1).jpg",
+        "alt": "Imagen Mascara Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/mexico/maquillaje-ojos/mascara/falsies%20lash%20lift/maybelline-new-york-mascara-falsies-lash-lift-very-black-washable-000-3600531584696-front.jpg?thn=0&w=380&hash=949F0D5F7D9D612B42FDFD15BBBB34661C3DBA3F",
+        "alt": "Imagen Mascara Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/falsies-lash-lift/maybelline-3600531584696-texture.jpg?thn=0&w=380&hash=BB2277AEC6379B2354134E6FC2E6B22FDA8539C5",
+        "alt": "Imagen Mascara Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/falsies-lash-lift/maybelline-3600531584696-secondary.jpg?thn=0&w=380&hash=BA0610A8561B50E5BC65313EC277AF038DF8D529",
+        "alt": "Imagen Mascara Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/falsies-lash-lift/maybelline-3600531584696.jpg?thn=0&w=380&hash=3359C4A2D15243DC9A1D8EF5EDE4C13001725410",
+        "alt": "Imagen Mascara Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/falsies-lash-lift/maybelline-3600531584696-zoom.jpg?thn=0&w=380&hash=8510426C53753A63DFC1FA14C17FBF678ED4AEFC",
+        "alt": "Imagen Mascara Black"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#151414"
+      }
+    ]
+  },
+  {
+    "id_product": 3,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "LAPIZ DELINEADOR A PRUEBA DE AGUA",
+    "price": "2500",
+    "rating": null,
+    "stock": 20,
+    "description": "Nuevo lápiz delineador en gel Tattoo Liner semi-permanente. A prueba de agua, roces y sudor.",
+    "benefits": "Delinador efecto tatuaje semi-permanente. Su fórmula resiste roces, agua y sudor, no se transifere. Tiene un textura cremosa y es de fácil aplicación. Se remueve fácilmente con agua micelar.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Empezá dibujando sobre la línea de las pestañas desde el interior hasta el exterior, aumentando el grosor paulatinamente."
+      },
+      {
+        "step": 2,
+        "description": "Repetí el Paso 1 en el párpado interior."
+      },
+      {
+        "step": 3,
+        "description": "Dejá secar 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/hp-coursel/new%20hp%20assets/new%20products%20module/02newproducts2x.jpg",
+        "alt": "Imagen Delineador Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-1.jpg?thn=0&w=380&hash=5FF6AFC554055C49E54AE8C8F6CD1C5CA911C099",
+        "alt": "Imagen Delineador Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-2.jpg?thn=0&w=380&hash=D478FDE1C79A99D15229EABD1DFB44CCF6A2EE67",
+        "alt": "Imagen Delineador Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-4.jpg?thn=0&w=380&hash=C385E080406817F94B804D4FEDA96F97EEFA59C0",
+        "alt": "Imagen Delineador Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-3.jpg?thn=0&w=380&hash=60A987664FAB0E448BBAD2EE0F89DAB714F51CFF",
+        "alt": "Imagen Delineador Black"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-6.jpg?thn=0&w=380&hash=8EDB5FB32EA60414373F4C6881777CE16C86A88B",
+        "alt": "Imagen Delineador Black"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#151414"
+      }
+    ]
+  },
+  {
+    "id_product": 4,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "VIBYK INK SUPERSTAY",
+    "price": "2500",
+    "rating": null,
+    "stock": 20,
+    "description": "El nuevo labial líquido SuperStay Vinyl Ink le da a tus labios un efecto vinilo de larga duración. Conseguí un brillo instantáneo que dura hasta 16 horas. ¡Animate a lucir unos labios de impacto!",
+    "benefits": "Obtén un color de impacto con un acabado vinilo brillante en tus labios que no se corre ni se transfiere, hasta 16 horas de duración de color intenso con una textura confortable. Además de tener una fórmula vegana enriquecida con Vitamina E y aloe para una sensación cómoda en tus labios.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Para aplicar el labial de larga duración simplemente agitá, deslizá y listo. Para lograr el acabado vinilo perfecto, primero agitá tu Vinyl Ink antes de aplicarlo. Después aplícalo en tus labios utilizando su aplicador de punta. Por último, déjalo secar y ¡LISTO!"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/homepage/superstay%20vinyl%20ink%20lip%20color/newproduct_ssvinylink_600x900.jpg",
+        "alt": "Lipstick Red"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-vinyl-ink/wicked%201.jpg?thn=0&w=380&hash=C4C44F40371ACF2F1D75F07FACA95DF9564E0086",
+        "alt": "Lipstick Red"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-vinyl-ink/wicked%203.jpeg?thn=0&w=380&hash=C0662B7B001CD5F57589518857E577CC3C65BF5D",
+        "alt": "Lipstick Red"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-vinyl-ink/wicked%202.jpg?thn=0&w=380&hash=883BC56A3509268B1A0EB628FC7C6F5EDC6F3746",
+        "alt": "Lipstick Red"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-vinyl-ink/wicked.jpg?thn=0&w=380&hash=00937C76230C23D54EF5D13C118E70091C2F1E56",
+        "alt": "Lipstick Red"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#d3132c"
+      },
+      {
+        "colour": "#a01818"
+      },
+      {
+        "colour": "#9b3b4c"
+      },
+      {
+        "colour": "#b77983"
+      },
+      {
+        "colour": "#ea79c3"
+      }
+    ]
+  },
+  {
+    "id_product": 5,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "LASH SENSATIONAL SKY HIGH",
+    "price": "5800",
+    "rating": null,
+    "stock": 17,
+    "description": "Conoce la máscara de pestañas Lash Sensational Sky High para una longitud sin límites + volumen redefinido en tus pestañas con pigmentos negros. Su innovador cepillo cónico flexible alcanza cada una de tus pestañas sin dejar grumos y su fórmula con extracto de bambú es ligera y súper fácil de aplicar. Consigue el efecto más viral en redes: #PESTAÑASCONALTURA",
+    "benefits": "Pestañas con una longitud sin límites + volumen redefinido. #PESTAÑASCONALTURA.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Desmaquilla bien tus pestañas y deja que se sequen antes de aplicar Sky High  para que la aplicación sea perfecta. "
+      },
+      {
+        "step": 2,
+        "description": " Desliza el aplicador desde la base de las pestañas hasta las puntas y deja que la fórmula se seque."
+      },
+      {
+        "step": 3,
+        "description": "¡Ya lo tenes! Pestañas a prueba de todo hasta 36h."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/maybelline-lash-sensational-sky-high-wsh-801-very-black-041554590500-o.jpg?rev=d5f75d2ec50e4e56a3bfaa284acb2581&cx=0&cy=0&cw=316&ch=475&hash=6FAD1CAAAAC682B4F07AFD814411AF97",
+        "alt": "Imagen Máscara de Pestañas"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/maybelline-lash-sensational-sky-high-wsh-801-very-black-041554590500-t.jpg?rev=6fcd669de1fb4c4ea7b738a49667efba&cx=0&cy=0&cw=316&ch=475&hash=61CBE2306753E43F3533F48C46F271B6",
+        "alt": "Imagen Máscara de Pestañas"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/applicationmacro_productinfo_lashsensational_skyhigh_desktop_316x474.jpg?rev=5d37e4018a754162bf8c2d6df0e200bc&cx=0&cy=0&cw=316&ch=475&hash=F66414395646E8FB1B17C3C29B4ADBF8",
+        "alt": "Imagen Máscara de Pestañas"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/beforeandaftergrid_productinfo_lashsensational_skyhigh_desktop_316x474.jpg?rev=f3f25c0d513c480faf1699459a0b924d&cx=0&cy=0&cw=316&ch=475&hash=5D55E5E22D3C703A2CBA5C59EAF2A0EA",
+        "alt": "Imagen Máscara de Pestañas"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/closeup_productinfo_lashsensational_skyhigh_desktop_316x474.jpg?rev=304fa42b47dc4605ab01b95e1894c745&cx=0&cy=0&cw=316&ch=475&hash=3E95612EA8C2CAB1C156B699BFAB65A0",
+        "alt": "Imagen Máscara de Pestañas"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup/jobeauty_productinfo_lashsensational_skyhigh_desktop_316x474.jpg?rev=2893a3a2bb844f838187fcc95381d617&cx=0&cy=0&cw=316&ch=475&hash=AECAD0937DDB4E7ACDE50520D186001B",
+        "alt": "Imagen Máscara de Pestañas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 6,
+    "id_category": 11,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "FIT ME",
+    "price": "2300",
+    "rating": null,
+    "stock": 28,
+    "description": "Corrector tapa ojeras y bolsas, corrige imperfecciones, ilumina la mirada y define el rostro. Gracias a su fórmula con Bayas de Goji, hidrata hasta 12hs el contorno de ojos, trata y reafirma ojeras y bolsas. Su unico aplicador en esponja cubre fácilmente con precisión y consigue una cobertura que no reseca ni cuartea. Corrige, Contornea e Ilumina tu rostro con el Instant Age Rewinder de Maybelline New York.",
+    "benefits": "Todo lo que necesito en un solo producto. Corrector + Contorno + Iluminador. Tu nuevo Must Have.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Gira en dirección como indican las flechas hasta que el producto aparezca en la esponja (puede que tome varios giros al usarla por primera vez)."
+      },
+      {
+        "step": 2,
+        "description": "Aplícate el producto directamente en el rostro con ayuda de la esponja del producto y difumínala."
+      },
+      {
+        "step": 3,
+        "description": "Aunque el aplicador está protegido con un sistema antimicrobiótico, se recomienda limpiarlo: retirar el exceso del producto con un pañuelo desechable y seco únicamente. No mojes el aplicador."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/hp-coursel/new%20hp%20assets/bestsellers%20module/eraser-concealer-3.jpg",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/new%20images%2001202023/160/160_1.jpg?thn=0&w=380&hash=3DF984D34B18988DD33DB6B97374FEDC337BE697",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/new%20images%2001202023/120/120_1.jpg?thn=0&w=380&hash=83A5F6FF642DCA757892CDCCAD401AC8305656BC",
+        "alt": "Imagen Base Líquida"
+      },
+
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/new%20images%2001202023/150/150_1.jpg?thn=0&w=380&hash=F7A28B3E970D491DF0D2406E6CB7BE10552C8581",
+        "alt": "Imagen Base Líquida"
+      },
+
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/new%20images%2001202023/144/144_1.jpg?thn=0&w=380&hash=30A65371EA98E12C50B1841EAD402159A97BCA61",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/new%20images%2001202023/122/122_1.jpg?thn=0&w=380&hash=D4CE54DB328FB200CED5FE7C1EC653744D7410FD",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/160-brightener/1600x1600/160-0041554267204_5-min.jpg?thn=0&w=380&hash=45429973A87E4FBA201432465ACB6BEC66F5695C",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/corrector/the-eraser-concealer/160-brightener/1600x1600/160-0041554267204_4-min.jpg?thn=0&w=380&hash=7DCC75C7C9F08408A48E525B4F980D9DC3B702A7",
+        "alt": "Imagen Base Líquida"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FCE4D6"
+      },
+      {
+        "colour": "#FFE0B2"
+      },
+      {
+        "colour": "#FFDAB9"
+      },
+      {
+        "colour": "#FFCBA4"
+      },
+      {
+        "colour": "#FFBB99"
+      },
+      {
+        "colour": "#f2cda9"
+      },
+      {
+        "colour": "#FFAA80"
+      },
+      {
+        "colour": "#FF9966"
+      },
+      {
+        "colour": "#FF8C66"
+      },
+
+      {
+        "colour": "#D68E7A"
+      },
+      {
+        "colour": "#A0522D"
+      },
+      {
+        "colour": "#8B4513"
+      },
+      {
+        "colour": "#704214"
+      }
+    ]
+  },
+  {
+    "id_product": 7,
+    "id_category": 11,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "INSTANT AGE REWIND",
+    "price": "2300",
+    "rating": null,
+    "stock": 28,
+    "description": "Base de maquillaje fluida matificante que iguala el tono y se ajusta al tipo de piel. Desvanece los poros y controla el brillo, ahora con 15 nuevos tonos.",
+    "benefits": "Pigmentos ligeros que dan un acabado natural.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá la base Fit Me y extendela por todo el rostro con la ayuda de la yema de tus dedos para lograr una cobertura pareja y uniforme. "
+      },
+      {
+        "step": 2,
+        "description": "Completá la rutina con el polvo compacto de la misma línea para sellar el maquillaje."
+      },
+      {
+        "step": 3,
+        "description": "Remové fácilmente con Agua Micelar."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/hp-coursel/mny20_eu_fit-me-matte-poreless_120_classic-ivory_600x900.jpg",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/3600531325114/3600531325114-1.jpg?thn=0&w=380&hash=189579C4650E6C27218EFFF1F314A6A1571D8617",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/creamy-beige/creamy-beige-maybelline-fit-me-base-grasa-122.jpg?thn=0&w=380&hash=F4941A792D7D0E59AA4F23FAC832496361801639",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/3600531325138/3600531325138-1.jpg?thn=0&w=380&hash=BEA5E67F08AF6509D0EF2EAB626AB5FD1D5415D8",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/3600531325060/3600531325060-1.jpg?thn=0&w=380&hash=AB271651DB54319C9178241C88760CBBCFFD8284",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/3600531453442/3600531453442-1.jpg?thn=0&w=380&hash=178458C012063671B21F6E0958DE1E684D51E965",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/3600531359072/3600531359072-1.jpg?thn=0&w=380&hash=95F53F8FBBBAEC353F59C5D6AAFD20995A29A22C",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-base-grasa/resized/warm-tan/warm-tan-maybelline-fit-me-base-grasa-334.jpg?thn=0&w=380&hash=0995D171819CE615E307A313AFA55FAF0ACA628E",
+        "alt": "Imagen Base Líquida"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FCE4D6"
+      },
+      {
+        "colour": "#FFE0B2"
+      },
+      {
+        "colour": "#FFDAB9"
+      },
+      {
+        "colour": "#FFCBA4"
+      },
+      {
+        "colour": "#FFBB99"
+      },
+      {
+        "colour": "#FFAA80"
+      },
+      {
+        "colour": "#FF9966"
+      },
+      {
+        "colour": "#FF8C66"
+      },
+      {
+        "colour": "#E57373"
+      },
+      {
+        "colour": "#D68E7A"
+      },
+      {
+        "colour": "#A0522D"
+      },
+      {
+        "colour": "#8B4513"
+      },
+      {
+        "colour": "#704214"
+      }
+    ]
+  },
+  {
+    "id_product": 8,
+    "id_category": 4,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "COLOR TATTOO STIX",
+    "price": "4700",
+    "rating": null,
+    "stock": 20,
+    "description": "Barra libre de color hasta 24H con la nueva sombra + liner multi-uso en formato stick: Color Tattoo Stix. Gracias a su alta pigmentación consigue un impacto de color con más facilidad y más duración hasta 24H. Su fórmula en crema te permite conseguir el efecto deseado con más fácilidad. Además, su mina es resistente y tiene sacapuntas incorporado para que puedas experimentar con tu delineado y sombra, a la vez. ¡Hasta 6 tonos diferentes para que puedas combinarlos!",
+    "benefits": "Formato multi-uso: Sombra + liner en stick. Larga duración hasta 24H. Fórmula en crema, no se cuartea. Sacapuntas incoporado: punta fina en cada uso. Impacto de color hasta 6 tonos disponibles.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Afila con el sacapuntas antes de aplicarlo para un trazo más preciso."
+      },
+      {
+        "step": 2,
+        "description": "Úsalo como sombra, liner o ambos. "
+      },
+      {
+        "step": 3,
+        "description": "Difumina las zonas en las que quieras que el pigmento se vea menos intenso."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/tattoo-eye-stix-maybelline---nuevo-producto.png?rev=a415f0fbcf0b423abf7a678e1e68e5ff&cx=0&cy=0&cw=315&ch=472&hash=27C0DAF20A061AD988BCA8373A888D6D",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-55-i-am-fearless-03600531672645-primary.png?rev=10a09cf8b5e941bfb31cadd10ecfa0e5&cx=0&cy=0&cw=316&ch=475&hash=9EADBBBD7859659ACF49EB434706164A",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-55-i-am-fearless-3600531672645-av12.png?rev=b5e052334eb449cbb58c963ffccba772&cx=0&cy=0&cw=316&ch=475&hash=4399BE0868E652873D57967C69176A22",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-45-i-am-giving-03600531672621-primary.png?rev=7214865aff8e4ade840cfc2cca0d2634&cx=0&cy=0&cw=316&ch=475&hash=A07FB78581B37BE576E4DA3096760510",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-45-i-am-giving-3600531672621-av12.png?rev=8221fd31db954096b6f6ef0f1e4fcd10&cx=0&cy=0&cw=316&ch=475&hash=3E94507530777AC011E0D9405F0BBCA7",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-50-i-am-unique-03600531672638-primary.png?rev=7be5ac874ec24c7096a9c198119588a9&cx=0&cy=0&cw=316&ch=475&hash=25189C63DAAE0CE61262937F80A86B5A",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-50-i-am-unique-3600531672638-av12.png?rev=f9b9a6c361f94c908872700decbf0237&cx=0&cy=0&cw=316&ch=475&hash=6E13BA82E1F3DA2BE11789539B001912",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-30-i-am-courageous-03600531672591-primary.png?rev=a8f7636d447b4878a12691987d074d8e&cx=0&cy=0&cw=316&ch=475&hash=5F6745A344A898D8A1E6462C250CCBEC",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/maybelline-color-tattoo-eye-stix-eu-30-i-am-courageous-03600531672591-primary-(1).png?rev=ddfeb656a5b54cc69ad7424000747d5f&cx=0&cy=0&cw=316&ch=475&hash=5BAF8CA40D98D7CA1EEEF266C65068BC",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/macro_shade_giving.png?rev=6dda77482b5a4f4294db34ee7aa4f5ee&cx=0&cy=0&cw=316&ch=475&hash=2E9B7003BFDAAD09B2F054C308AB34AE",
+        "alt": "Imagen Sombra Para Ojos"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/eye-makeup/eye-shadow/color-tattoo-stix/benefitschecklist_pdp_mny_maky_colortattooeyestix_developed_desktop_316x474.png?rev=c352ccaef8754065a461fbfeacee99d1&cx=0&cy=0&cw=316&ch=475&hash=CA2846D22FF3E49B9E0C22DBDDDCDD38",
+        "alt": "Imagen Sombra Para Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#7B68EE"
+      },
+      {
+        "colour": "#00CED1"
+      },
+      {
+        "colour": "#C71585"
+      },
+      {
+        "colour": "#FFC0CB"
+      },
+      {
+        "colour": "#FFDAB9"
+      },
+      {
+        "colour": "#BC8F8F"
+      }
+    ]
+  },
+  {
+    "id_product": 9,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "TATTOO LIQUID EYE LINER",
+    "price": "1100",
+    "rating": null,
+    "stock": 5,
+    "description": "Nuevo delineador larga duración de Maybelline. Gracias a su efecto tattoo no se corre ni se borra dándote una mirada intensa durante 36hs.",
+    "benefits": "Larga duración y fácil de aplicar gracias a su pincel ultra preciso. Nueva fórmula en gel.",
+    "application": [
+      {
+        "step": 1,
+        "description": " Comenzá delineando tu parpado superior desde el lagrimal aumentando de a poco el grosor."
+      },
+      {
+        "step": 2,
+        "description": "Repetí en tu parpado inferior."
+      },
+      {
+        "step": 3,
+        "description": "Para lograr una intensidad tattoo dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/hp-coursel/new%20hp%20assets/bestsellers%20module/tattoo-liners-2.jpg",
+        "alt": "Imagen Delineador líquido"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726.jpg?thn=0&w=380&hash=D54E411774D3B7C6D1C900B84FFAB6DA433847D5",
+        "alt": "Imagen Delineador líquido"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-t.jpg?thn=0&w=380&hash=EEE6B73B520E3A49B071643464F064EF7733E38F",
+        "alt": "Imagen Delineador líquido"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-s.jpg?thn=0&w=380&hash=D984A6E1A5EB8FC5CA8B89C2890A4C1E802B1BF1",
+        "alt": "Imagen Delineador líquido"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-hand-visual.jpg?thn=0&w=380&hash=BA976CEA880A666CE81714D280000DB2433C0A2A",
+        "alt": "Imagen Delineador líquido"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000"
+      }
+    ]
+  },
+  {
+    "id_product": 10,
+    "id_category": 1,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "TATTOO BROW PENCIL",
+    "price": "2200",
+    "rating": null,
+    "stock": 10,
+    "description": "¡Logra unas cejas de impacto que duran hasta por 36 horas con Tattoo Brow Pencil! Un dúo de lápiz para cejas con cepillo circular para definir, rellenar y cepillar las cejas de una forma fácil y rápida. Se adhiere a la piel para dar forma en áreas escasas, tiene una larga duración, es a prueba de agua y no se transfiere gracias a su fórmula de crema en polvo. La punta de precisión crea la apariencia real del pelo en la ceja para lograr cejas perfectamente definidas, equilibradas y de aspecto natural.",
+    "benefits": "Tattoo Brow 36H Pigment Brow Pencil de Maybelline NY, es un lápiz de cejas que es súper fácil de utilizar y que tiene un gran rendimiento. Consigue con facilidad cejas de impacto con larga duración de hasta por 2 días y es a prueba de agua. Su fórmula esta hecha con pigmentos audaces que proporcionan los más altos niveles de pigmentación en un lápiz de cejas. Logra definir, rellenar y fijar las cejas irregulares sin que se transfieran o desvanezcan a lo largo del día. Tattoo Brow 36H incluye un cepillo de cejas en un extremo para conseguir unas cejas definidas, difuminadas y de aspecto natural.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Da forma a las cejas, arquea y rellena las áreas escasas"
+      },
+      {
+        "step": 2,
+        "description": "Difumina con el cepillo circular para lograr un estilo natural, pero definido"
+      },
+      {
+        "step": 3,
+        "description": "Para lograr una intensidad tattoo dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/cejas/tattoo-brow/tattoo%20brow/deep%20brown/tattoo-brow-36h-pencil_deep-brown_producto.jpg?thn=0&w=380&hash=3DE7740C15ACACDCA6723C36980BB9522D52B588",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/cejas/tattoo-brow/tattoo%20brow/deep%20brown/tattoo-brow-36h-pencil_deep-brown_empaque.jpg?thn=0&w=380&hash=BCFAE759983F2C10DCC7FA86EC4FCDB787C2E2A9",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/cejas/tattoo-brow/tattoo%20brow/deep%20brown/tattoo-brow-36h-pencil_deep-brown_aplicador.jpg?thn=0&w=380&hash=F9B31A20751E760D88BD592CB405CA7B09BBD4B4",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/cejas/tattoo-brow/tattoo%20brow/deep%20brown/tattoo-brow-36h-pencil_deep-brown_textura.jpg?thn=0&w=380&hash=D879C449E3C51FC96C7EE7736026022AC3AFFB56",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#9D786D"
+      },
+      {
+        "colour": "#855839"
+      },
+      {
+        "colour": "#452820"
+      }
+    ]
+  },
+  {
+    "id_product": 11,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "MASTER",
+    "price": "3400",
+    "rating": null,
+    "stock": 18,
+    "description": "Delineador líquido de máxima precisión.",
+    "benefits": "Larga duración",
+    "application": [
+      {
+        "step": 1,
+        "description": "Comenzá a trazar la línea en la esquina interior del párpado a lo largo de la línea de las pestañas siguiendo el contorno de tu ojo. "
+      },
+      {
+        "step": 2,
+        "description": "Para un look más dramático, trazá una línea más gruesa en las esquinas exteriores."
+      },
+      {
+        "step": 3,
+        "description": "¡Ya lo tenes!"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/master-precise/master_precise.jpg?thn=0&w=380&hash=5BF7556CB7F0706DABE982722AA71079C03E0746",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/master-precise/master_precise1.jpg?thn=0&w=380&hash=D0EAC45B67F4485F7B6CE6F8AAB9D3D7EDD4993A",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/master-precise/master_precise3.jpg?thn=0&w=380&hash=47A4B374332F669F5DEA19758A5969E62F409487",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/master-precise/master_precise2.jpg?thn=0&w=380&hash=400FB6139BE69E1B916095018D1983B137BA8C74",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 12,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "MASTER",
+    "price": "3400",
+    "rating": null,
+    "stock": 18,
+    "description": "Delineador automático extra fino para un delineado preciso.",
+    "benefits": "Micro punta para una aplicación fina y precisa, larga duración y resistente al agua. Se desliza sin esfuerzo.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicarlo a lo largo de la línea de las pestañas desde la esquina interior hasta la exterior."
+      },
+      {
+        "step": 2,
+        "description": "Para un look más dramático, trazá una línea más gruesa en las esquinas exteriores."
+      },
+      {
+        "step": 3,
+        "description": "¡Ya lo tenes!"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/master-precise-skinny-eyeliner/maybelline-eyeliner-master-precise-skinny-defining-black-041554460834-o.jpg?thn=0&w=380&hash=95F211F4C15A2751F5760C7B1D14B2B8827252BB",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/master-precise-skinny-eyeliner/maybelline-eyeliner-master-precise-skinny-defining-black-041554460834-c.jpg?thn=0&w=380&hash=FB68D6C096AAC1415C1A130BEB1537B0D0D7E097",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/master-precise-skinny-eyeliner/maybelline-eyeliner-master-precise-skinny-defining-black-041554460834-d.jpg?thn=0&w=380&hash=5832275D23C9E768EDBEC22E0BAB294AD59FE876",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/master-precise-skinny-eyeliner/maybelline-eyeliner-master-precise-skinny-defining-black-041554460834-t.jpg?thn=0&w=380&hash=28E0054EFF348C90DE463446704BDF9109D0DD57",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 13,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "LAPIZ DELINEADOR A PRUEBA DE AGUA",
+    "price": "3100",
+    "rating": null,
+    "stock": 18,
+    "description": "Nuevo lápiz delineador en gel Tattoo Liner semi-permanente. A prueba de agua, roces y sudor.",
+    "benefits": "Delinador efecto tatuaje semi-permanente. Su fórmula resiste roces, agua y sudor, no se transifere. Tiene un textura cremosa y es de fácil aplicación. Se remueve fácilmente con agua micelar.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Empezá dibujando sobre la línea de las pestañas desde el interior hasta el exterior, aumentando el grosor paulatinamente."
+      },
+      {
+        "step": 2,
+        "description": "Repetí el Paso 1 en el párpado interior."
+      },
+      {
+        "step": 3,
+        "description": "Dejá secar 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-1.jpg?thn=0&w=380&hash=5FF6AFC554055C49E54AE8C8F6CD1C5CA911C099",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-2.jpg?thn=0&w=380&hash=D478FDE1C79A99D15229EABD1DFB44CCF6A2EE67",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-3.jpg?thn=0&w=380&hash=60A987664FAB0E448BBAD2EE0F89DAB714F51CFF",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/brow/tatoo-liner/3600531531065-4.jpg?thn=0&w=380&hash=C385E080406817F94B804D4FEDA96F97EEFA59C0",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 13,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "TATTOO LIQUID EYE LINER",
+    "price": "3100",
+    "rating": null,
+    "stock": 23,
+    "description": "Nuevo delineador larga duración de Maybelline. Gracias a su efecto tattoo no se corre ni se borra dándote una mirada intensa durante 36hs.",
+    "benefits": "Larga duración y fácil de aplicar gracias a su pincel ultra preciso. Nueva fórmula en gel.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Comenzá delineando tu parpado superior desde el lagrimal aumentando de a poco el grosor."
+      },
+      {
+        "step": 2,
+        "description": "Repetí el Paso 1 en el párpado interior."
+      },
+      {
+        "step": 3,
+        "description": "Para lograr una intensidad tattoo dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/delineadores/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726.jpg?thn=0&w=380&hash=D54E411774D3B7C6D1C900B84FFAB6DA433847D5",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-s.jpg?thn=0&w=380&hash=D984A6E1A5EB8FC5CA8B89C2890A4C1E802B1BF1",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-t.jpg?thn=0&w=380&hash=EEE6B73B520E3A49B071643464F064EF7733E38F",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eyeliner/tattoo-liner/maybelline-tattoo-studio-liquid-liner-ink-black-3600531571726-hand-visual.jpg?thn=0&w=380&hash=BA976CEA880A666CE81714D280000DB2433C0A2A",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 14,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "EXPERT EYES PENCIL",
+    "price": "2000",
+    "rating": null,
+    "stock": 23,
+    "description": "Delineador en lapiz de textura cremosa y larga duración",
+    "benefits": "Su fórmula y su trazo permite que no se corra durante todo el día. De aplicación sencilla.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicarlo a lo largo de la línea de las pestañas desde la esquina interior hasta la exterior."
+      },
+      {
+        "step": 2,
+        "description": "Repetí el Paso 1 en el párpado interior."
+      },
+      {
+        "step": 3,
+        "description": "Para lograr una intensidad tattoo dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7790033206489.jpg?thn=0&w=380&hash=23F6B222C7707EB40FC30B73EEFAF67E2E117C40",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7790033206489-1.jpg?thn=0&w=380&hash=A3209FE6BEA9C4602BDADDAEB24E662803D59899",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7790033206489-2.jpg?thn=0&w=380&hash=B6CA6FF700963922E584AD975F2FFB61804F085E",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7790033206489-3.jpg?thn=0&w=380&hash=70DB13543A57BC4341464663D0D36B72C3183EC2",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 15,
+    "id_category": 2,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "LINER EXPRESS",
+    "price": "2000",
+    "rating": null,
+    "stock": 13,
+    "description": "Delineador líquido de larga duración con aplicador especial.",
+    "benefits": "Su aplicador especial brinda un trazo adaptable, fino e intenso. De larga duración, para un delineado perfecto todo el día.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicarlo a lo largo de la línea de las pestañas desde la esquina interior hasta la exterior."
+      },
+      {
+        "step": 2,
+        "description": "Repetí el Paso 1 en el párpado interior."
+      },
+      {
+        "step": 3,
+        "description": "Para lograr una intensidad tattoo dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7899026426498-1.jpg?thn=0&w=380&hash=730BE3F03FB9EA2AA6263D847742096B19CE51CB",
+        "alt": "Imagen Delineador de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7899026426498.jpg?thn=0&w=380&hash=5AC86793F45D849168E87FC515F6D65E4072FFBB",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/7899026426498-3.jpg?thn=0&w=380&hash=208BCFE8D81B3CFDB5B07888F42EC32B66C39805",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#6b5d5a"
+      }
+    ]
+  },
+  {
+    "id_product": 16,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "SKY HIGH MASCARA",
+    "price": "4300",
+    "rating": null,
+    "stock": 13,
+    "description": "Nueva mascara de pestañas Sky High que alarga y da volumen sensacional llevando a tus pestañas hasta los cielos. Mascara de larga duración que proporciona un volumen total y una alargamiento ilimitado.",
+    "benefits": "Pestañas hasta el cielo con Sky High dando una mirada sensacional desde cualquier ángulo. La mascara de pestañas Lash Sensational Sky High proporciona un volumen total y un alargamiento ilimitado. El exclusivo cepillo de silicón Flex Tower se dobla para dar volumen y extender cada pestaña desde la raíz hasta la punta. Su fórmula a prueba de agua, con extracto de bambú y fibras extensoras, proporciona unas pestañas más largas, llenas y ligeras, dejándolas sin grumos.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Para obtener los mejores resultados, sujeta el cepillo flexible de la mascara Maybelline Lash Sensational Sky High contra las pestañas y extiéndelas desde la raíz hasta la punta repetidamente hasta conseguir el volumen y la longitud deseada."
+      },
+      {
+        "step": 2,
+        "description": "Para lograr mayor intensidad dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/mexico/maquillaje-ojos/mascara/sky-high/lash%20sensational/maybelline-lash-sensational-sky-high-washable-mascara-blackest-black_041554590517-3.jpg?thn=0&w=380&hash=C309CDABB60A1FDDA63A246E9BD563620C927713",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/mexico/maquillaje-ojos/mascara/sky-high/lash%20sensational/sky%20high%20mascara%20-%20aplicador%20maybelline.jpg?thn=0&w=380&hash=CB7F836901B4AE5153E764B8A4C9E4FF77248B21",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/mexico/maquillaje-ojos/mascara/sky-high/lash%20sensational/sky%20high%20mascara%20wsh%20-%20empaque%20maybelline.jpg?thn=0&w=380&hash=65A9121785A69AA21F9A2E667FC4E40CD5B89744",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/mexico/maquillaje-ojos/mascara/sky-high/lash%20sensational/lash-sensational-sky-high-mascara-clp-swatch.png?thn=0&w=380&hash=2D437A0EE1C389964819A30BAA3001CBA0C2740B",
+        "alt": "Imagen Máscara de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#6b5d5a"
+      }
+    ]
+  },
+  {
+    "id_product": 17,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "THE COLOSSAL BIG SHOT",
+    "price": "4300",
+    "rating": null,
+    "stock": 13,
+    "description": "Máscara de pestañas para conseguir un volumen impactante en una sola pasada.",
+    "benefits": "El cepillo Big Shot tiene cerdas onduladas únicas que mueven las pestañas de lado a lado, mientras que la fórmula con colágeno aporta un volumen intenso en una sola pasada.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá la máscara deslizando el cepillo en zig-zag desde la raíz hasta las puntas."
+      },
+      {
+        "step": 2,
+        "description": "Para lograr mayor intensidad dejalo secar por 30 segundos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/volum-express-the-colossal-big-shot-washable-mascara/maybelline-mascara-colossal-big-shot-very-black-washable-041554493726-o.jpg?thn=0&w=380&hash=6CAC584CEF3F8A9D4A053B8ED89CDF96E57AA609",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/volum-express-the-colossal-big-shot-washable-mascara/maybelline-mascara-colossal-big-shot-very-black-washable-041554493726-c.jpg?thn=0&w=380&hash=FAF19EA99572C7598EA1BBB441D9D2C309415F6F",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/volum-express-the-colossal-big-shot-washable-mascara/maybelline-mascara-colossal-big-shot-very-black-washable-041554493726-d.jpg?thn=0&w=380&hash=5F6566BDEB4D3BD7A985D79CBB649DB4762FCEFA",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/volum-express-the-colossal-big-shot-washable-mascara/maybelline-mascara-colossal-big-shot-very-black-washable-041554493726-t.jpg?thn=0&w=380&hash=93829376020F3D8B5E6439B36BD4581B477CD02B",
+        "alt": "Imagen Máscara de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 18,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "THE FALSIES LASH LIFT WATERPROOF",
+    "price": "5300",
+    "rating": null,
+    "stock": 18,
+    "description": "Mascara de pestañas a prueba de agua que logra un lifting de pestañas como si fuera profesional al instante.",
+    "benefits": "El cepillo Lash Lift de doble curva impacta en las pestañas desde la raíz para lograr el lifting. La fórmula es a prueba de agua y dura hasta por 16hs.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá la máscara deslizando el cepillo en zig-zag desde la raíz hasta las puntas."
+      },
+      {
+        "step": 2,
+        "description": "No dejes que la mascara se seque entre capas."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-lift/open-pack-the-falsies-lash-lift.jpg?thn=0&w=380&hash=879D08A0F69876131097955A7ED1DA4B6E655D44",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-lift/close-pack-the-falsies-lash-lift.jpg?thn=0&w=380&hash=47F6C5B41EC547836FFFB19FF54D437FE0A5BC15",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-lift/brush-zoom-the-falsies-lash-lift.jpg?thn=0&w=380&hash=31FD9BC9D894ACF9660804B0E988085BE85FD160",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-lift/texture-the-falsies-lash-lift.jpg?thn=0&w=380&hash=662974DAA5DAF4294CE7CCFE8D08A915175C3DF4",
+        "alt": "Imagen Máscara de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 19,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "THE FALSIES",
+    "price": "5300",
+    "rating": null,
+    "stock": 18,
+    "description": "Máscara de pestañas a prueba de agua para un volumen y alargamiento dramático, efecto pestañas postizaz.",
+    "benefits": "Su cepillo con cerdas en forma de copa levanta, da volumen y alarga las pestañas.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Comenzar aplicando el producto de raíz a puntas del lado de atrás y hacerlo de la misma manera del lado del frente; así lograrás más volumen y longitud."
+      },
+      {
+        "step": 2,
+        "description": "No dejes que la mascara se seque entre capas."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/the-falsies-push-up-drama/maybelline-mascara-push-up-drama-very-black-041554443479-o.jpg?thn=0&w=380&hash=8DEFF2ED88A7891E4F5A7FD2AA6B7CB5B9629411",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/the-falsies-push-up-drama/maybelline-mascara-push-up-drama-very-black-041554443479-c.jpg?thn=0&w=380&hash=FCAE2C17841D8972F98BFF8D607FF2DE2E5C7FF3",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/the-falsies-push-up-drama/maybelline-mascara-push-up-drama-very-black-041554443479-d.jpg?thn=0&w=380&hash=8DE15450C2E60E70DC1C6029C699ADCC52716E98",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/the-falsies-push-up-drama/maybelline-mascara-push-up-drama-very-black-041554443479-t.jpg?thn=0&w=380&hash=C99C2FC086BB46F638807455B22B870F59EF5027",
+        "alt": "Imagen Máscara de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 20,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "LASH MASK NOCTURNO",
+    "price": "3300",
+    "rating": null,
+    "stock": 18,
+    "description": "Serum de tratamiento nocturno para las pestañas.",
+    "benefits": "La fórmula de pro-keratina y aceite de argan actúan durante toda la noche en tus pestañas para fortalecerlas y suavizarlas.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Antes de dormir, aplicá el cepillo desde la raíz hasta las puntas. Dejalo actuar toda la noche. A la mañana siguiente enjuagarlo. "
+      },
+      {
+        "step": 2,
+        "description": "Usar por lo menos tres veces a la semana para mejores resultados."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-mask-serum-nocturno/edicionlashlift_1000x1000-09.jpg?thn=0&w=380&hash=8BCE57A420738DC9E4E7E1C82B4B62FE118231D5",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-mask-serum-nocturno/edicionlashlift_1000x1000-10.jpg?thn=0&w=380&hash=CC6DFB84F0CF33F1DA089D9529A18978E3800439",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-mask-serum-nocturno/edicionlashlift_1000x1000-15.jpg?thn=0&w=380&hash=3F913D980A2B7ACD346F181810BC62475CC3DF51",
+        "alt": "Imagen Máscara de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-falsies-lash-mask-serum-nocturno/edicionlashlift_1000x1000-13.jpg?thn=0&w=380&hash=6BF4D62921F30271F2B5940A445F3A08343AE8C3",
+        "alt": "Imagen Máscara de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#c4afc8"
+      }
+    ]
+  },
+  {
+    "id_product": 21,
+    "id_category": 3,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "GREAT LASH",
+    "price": "4100",
+    "rating": null,
+    "stock": 16,
+    "description": "Máscara de pestañas en gel transparente para controlar las pestañas y cejas rebeldes.",
+    "benefits": "Da control y definición a las pestañas y cejas rebeldes. Fórmula en gel transparente para un acabado natural.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Deslizá el cepillo hacia arriba, desde la raíz hacia la punta de las pestañas."
+      },
+      {
+        "step": 2,
+        "description": "No dejes que la mascara se seque entre capas."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/great-lash-clear/maybelline-mascara-great-lash-clear-041554519457-c.jpg?thn=0&w=380&hash=DE99A3CC0AEBD8DD0B30DD2E47E6F128BDF106B5",
+        "alt": "Imagen Máscara de Ojos Transparente"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/great-lash-clear/maybelline-mascara-great-lash-clear-041554519457-o-.jpg?thn=0&w=380&hash=B8D1FEB54EA1D3F8B8D3A9489EF276D98ACB6A03",
+        "alt": "Imagen Máscara de Ojos Transparente"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/great-lash-clear/maybelline-mascara-great-lash-clear-041554519457-d.jpg?thn=0&w=380&hash=DB0F172B0C0A3227D5F36EBE895549F4A365A6A6",
+        "alt": "Imagen Máscara de Ojos Transparente"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/mascara/great-lash-clear/maybelline-mascara-great-lash-clear-041554519457-t.jpg?thn=0&w=380&hash=B8E50B5E9C8CB3DF9AC60DFDE7DD4E48C680AE04",
+        "alt": "Imagen Máscara de Ojos Transparente"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#000000"
+      }
+    ]
+  },
+  {
+    "id_product": 22,
+    "id_category": 4,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "THE CITY MINI",
+    "price": "5600",
+    "rating": null,
+    "stock": 28,
+    "description": "La paleta de sombras City Mini Palette incluye seis tonos dramáticos perfectos para crear un estilo de maquillaje de ojos personalizado.",
+    "benefits": "Creá una impresión duradera con las minipaletas de seis tonos de sombras para ojos de Maybelline.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá la sombra principal en todo el párpado móvil."
+      },
+      {
+        "step": 2,
+        "description": "Aplicá una sombra más oscura en la esquina externa de la cuenca del ojo."
+      },
+      {
+        "step": 3,
+        "description": "Difuminá las dos sombras anteriores."
+      },
+      {
+        "step": 4,
+        "description": "Iluminá el centro del párpado y el lagrimal con un tono más claro."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-city-mini-palette/maybelline-eyeshadow-the-city-mini-palette-rooftop-bronzes-041554499742-c.jpg?thn=0&w=380&hash=252B0EE5D66D474ACD08C990CE2F6E2EF1E5A13E",
+        "alt": "Imagen Sombra de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/the-city-mini-palette/maybelline-eyeshadow-the-city-mini-palette-rooftop-bronzes-041554499742-t.jpg?thn=0&w=380&hash=A80D02C272C5921587E6BE1959590C4EAB45F17C",
+        "alt": "Imagen Sombra de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eye-shadow/the-city-mini-palette/maybelline-eyeshadow-the-city-mini-palette-rooftop-bronzes-041554499742-o.jpg?thn=0&w=380&hash=3BBDB2D5BCD153EC8C9A8462B930145840CBE887",
+        "alt": "Imagen Sombra de Ojos"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/eye-makeup/eye-shadow/the-city-mini-palette/maybelline-eyeshadow-the-city-mini-palette-rooftop-bronzes-041554499742-s.jpg?thn=0&w=380&hash=479E3DA6B473CF2DF4A602769877779C20253FB7",
+        "alt": "Imagen Sombra de Ojos"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#D2B48C"
+      },
+      {
+        "colour": "#BC8F8F"
+      },
+      {
+        "colour": "#A52A2A"
+      },
+      {
+        "colour": "#8B4513"
+      },
+      {
+        "colour": "#654321"
+      }
+    ]
+  },
+  {
+    "id_product": 23,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "SUPERSTAY MATTE INK",
+    "price": "5120",
+    "rating": null,
+    "stock": 14,
+    "description": "Super Stay Matte Ink Birthday Edition te brinda un acabado mate impecable en una gama de tonos súper saturados que celebran 5 años icónicos de actitud, ¡con 5 nuevos tonos con aroma a pastel de cumpleaños! Hasta 16 horas sin transferencia.",
+    "benefits": "Dale color a tus labios hasta 16 horas sin transferencia con SuperStay Matte Ink Birthday Edition. Su fórmula altamente pigmentada cuenta con un aplicador de flecha único para una aplicación precisa. La fórmula es de larga duración y da un acabado mate impecable.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá el lápiz labial líquido en el centro de tu labio superior y seguí los contornos de tu boca."
+      },
+      {
+        "step": 2,
+        "description": "Deslizá el labial líquido por todo el labio inferior."
+      },
+      {
+        "step": 3,
+        "description": "Dejá que el producto se seque."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-matte-ink-birthday-edition/life%20of%20the%20party/matteink_product_lifeoftheparty.jpg?thn=0&w=380&hash=2A6346C1906C634B874ABEAA5F26FA2E739D468C",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-matte-ink-birthday-edition/life%20of%20the%20party/matteink_main_lifeoftheparty.jpg?thn=0&w=380&hash=651A305827E83040A3CFCDE2A34CD20ECB557C5D",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-matte-ink-birthday-edition/life%20of%20the%20party/matteink_aplicador_lifeoftheparty.jpg?thn=0&w=380&hash=1216D125672B307AFF6D9D053336D0F5663C0D35",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/labiales/superstay-matte-ink-birthday-edition/life%20of%20the%20party/maybelline-lip-color-superstay-birthday-edition-matte-ink-390-life-of-the-party-041554070859-t.jpg?thn=0&w=380&hash=102AB8616C7F44A990452B84E7A1D4D58D9C6F8B",
+        "alt": "Imagen Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#b71444"
+      },
+      {
+        "colour": "#bb4a64"
+      },
+      {
+        "colour": "#c84d52"
+      },
+      {
+        "colour": "#bb4752"
+      },
+      {
+        "colour": "#961150"
+      }
+    ]
+  },
+  {
+    "id_product": 24,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "COLOR SENSATIONAL",
+    "price": "3220",
+    "rating": null,
+    "stock": 27,
+    "description": "Labial matte de textura cremosa con pigmentos recargados, más color en una sola pasada.",
+    "benefits": "Pigmentos recargados. Acabado matte",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá el labial comenzando en el centro de tu labio superior."
+      },
+      {
+        "step": 2,
+        "description": "Esfúmalo desde el centro hacia el borde de tu labio siguiendo el contorno de tu boca."
+      },
+      {
+        "step": 3,
+        "description": "Repetí la técnica en el labio inferior."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-violet-vixen-041554488708-o.jpg?thn=0&w=380&hash=45D89D2DA3DD5B841212DFB4423FCFC8379AC713",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-violet-vixen-041554488708-t.jpg?thn=0&w=380&hash=7D73E877CA16DBB86D7780A420394854CD6B5029",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-pitch-black-041554488777-o.jpg?thn=0&w=380&hash=920FB182865A63616922F8150EBE1AD38D9F8C33",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-pitch-black-041554488777-t.jpg?thn=0&w=380&hash=385D66079FF9195A7191327BDDCEC4334D286416",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-fiery-fuschia-041554464214-o.jpg?thn=0&w=380&hash=2E041FDBA5563C195F63FF870D74075BA2D6CEC9",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-fiery-fuschia-041554464214-t.jpg?thn=0&w=380&hash=1553F43C4D9B77C0BF0F0BED2D64E2A151E04392",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-berry-bossy-041554464252-o.jpg?thn=0&w=380&hash=C299729D4AA8AB4842D49CBA960CA8B212968E96",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-berry-bossy-041554464252-t.jpg?thn=0&w=380&hash=7B20741DC3D1607E89350E50386EA666BA955923",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-blackest-berry-041554464320-o.jpg?thn=0&w=380&hash=4C290D1FB97A4DCD884FC8AF5EF7D3F1B78A70B3",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-blackest-berry-041554464320-t.jpg?thn=0&w=380&hash=5F42615F410BBC3156BEEE5F867E2ABCBFD0B1DD",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-midnight-blue-041554488692-o.jpg?thn=0&w=380&hash=C02234035EC08650BF96D13AE46F78519D039854",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-midnight-blue-041554488692-t.jpg?thn=0&w=380&hash=8539EA1637F8855493D24A2F5E755C2D5229C7DE",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-smoking-red-041554464245-o.jpg?thn=0&w=380&hash=E4D4D8F168C160C9DA63DEC6FFDA4DCEFD9D8D30",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-the-loaded-bolds-lipstick/maybelline-lip-color-color-sensational-loaded-bold-smoking-red-041554464245-t.jpg?thn=0&w=380&hash=A4D7FDB3CE7A7C6C0222D43E1D49CADE709BCB13",
+        "alt": "Imagen Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#6d2d53"
+      },
+      {
+        "colour": "#5f3d51"
+      },
+      {
+        "colour": "#a83464"
+      },
+      {
+        "colour": "#354459"
+      },
+      {
+        "colour": "#5d2c64"
+      },
+      {
+        "colour": "#355590"
+      }
+    ]
+  },
+  {
+    "id_product": 25,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "COLOR SUTIL",
+    "price": "3220",
+    "rating": null,
+    "stock": 10,
+    "description": "Labial de acabado matte cremoso con pigmentos cálidos que realzan el color natural de tus labios.",
+    "benefits": "Acabado matte. Pigmentos nude cálidos. Hidratación profunda. ",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplica una capa ligera de color en los labios limpios, y deja que se seque completamente."
+      },
+      {
+        "step": 2,
+        "description": "Aplica una capa de bálsamo acondicionador para obtener brillo y comodidad."
+      },
+      {
+        "step": 3,
+        "description": "Repetí la técnica en el labio inferior."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-almond-rose-041554496574-o.jpg?thn=0&w=380&hash=EE2AB4B394BE64DF194E28DF62E9BABF44F59A56",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-almond-rose-041554496574-t.jpg?thn=0&w=380&hash=96BEB59AD740302A58C2721758D6ECF6FE807EC9",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-raw-chocolate-041554496567-o.jpg?thn=0&w=380&hash=7E7BBDC22BB96D2379620E4325990AE3AA40A807",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-raw-chocolate-041554496567-t.jpg?thn=0&w=380&hash=FC1FB448F471516136901343221804AB60C20097",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-peach-buff-041554496529-o.jpg?thn=0&w=380&hash=71987B4AED81B3A08B675CFF2604CF5A30620D96",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-inti-matte-nudes/maybelline-color-sensational-creamy-matte-nude-peach-buff-041554496529-t.jpg?thn=0&w=380&hash=6E9F99C82EC31D97D1AE2CD0AA8B2E674C6F672F",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-divine-wine-041554429961-o.jpg?thn=0&w=380&hash=03657F49E6519BC901A1C77839664CF0AF1E9670",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-divine-wine-041554429961-t.jpg?thn=0&w=380&hash=A716A7FE7079F31D61D176EE7712353B79DA34AE",
+        "alt": "Imagen Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#c68988"
+      },
+      {
+        "colour": "#d2807d"
+      },
+      {
+        "colour": "#a75f50"
+      },
+      {
+        "colour": "#771e27"
+      }
+    ]
+  },
+  {
+    "id_product": 26,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "SUPERSTAY 24",
+    "price": "5700",
+    "rating": null,
+    "stock": 20,
+    "description": "Labial líquido de larga duración en 2 pasos. Gracias a su tecnología Micro-Flex resiste hasta por 24hs. Color de gran impacto en un extremo y un bálsamo humectante en el otro. ",
+    "benefits": "Larga duración. Acabado satinado. No se corre. No reseca los labios.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá una capa ligera de color en los labios limpios, y dejá que se seque completamente."
+      },
+      {
+        "step": 2,
+        "description": "Aplicá una capa de bálsamo acondicionador para un acabado brilloso y humectante."
+      },
+      {
+        "step": 3,
+        "description": "Repetí la técnica en el labio inferior."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-24-7-fuschia-041554494983-o.jpg?thn=0&w=380&hash=C86AC3DBC3F93B6F4D2CC4D0CCC3788E8A77864D",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-pink-goes-on-041554494945-t.jpg?thn=0&w=380&hash=486B9B7F983CD5150813FA02ECECF15A8D0B74D3",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-pink-goes-on-041554494945-d2.jpg?thn=0&w=380&hash=8919BD4B91382C0EAE2550F78F34BA1B298BA074",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-all-day-plum-041554494990-o.jpg?thn=0&w=380&hash=DA3B2A4E0EC4363E0AFAFAD4CD26A7218998EE12",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-all-day-plum-041554494990-t.jpg?thn=0&w=380&hash=3C37CCDFC2FDA34D9620B36BC7110B0DC8D6C46D",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-all-day-plum-041554494990-d2.jpg?thn=0&w=380&hash=5276DBA62D9495DE473F206A29B974B1FC30C9D1",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-eternal-cherry-041554494969-o.jpg?thn=0&w=380&hash=CB34CCFD429BEC9BC5C4A5F1238A7940FB8107CC",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-eternal-cherry-041554494969-t.jpg?thn=0&w=380&hash=8E30AF9074AD4B3FB2A91BD77E69B3B315BDDE37",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/superstay-24-liquid-lipstick-super-impact/maybelline-lip-color-super-stay-24-super-impact-collection-eternal-cherry-041554494969-d2.jpg?thn=0&w=380&hash=052DA78852DB607D949A02E4CDD63E5E4C5A3F7E",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/super-stay-24hr-2-step-lipcolor/maybelline-lip-color-superstay-24hr-2step-everlasting-wine-041554237726-o.jpg?thn=0&w=380&hash=B4D2A64B78BE1EE095E90B129A02A6FE4E2B3550",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/super-stay-24hr-2-step-lipcolor/maybelline-lip-color-superstay-24hr-2step-everlasting-wine-041554237726-t.jpg?thn=0&w=380&hash=92537892DF11B2DCFCDE3122D368662A755A98D6",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/super-stay-24hr-2-step-lipcolor/maybelline-lip-color-superstay-24hr-2step-more-more-mocha-041554335897-o.jpg?thn=0&w=380&hash=7E36D2E8AEE317BB7ED595311FE634B18DF8E0E7",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/super-stay-24hr-2-step-lipcolor/maybelline-lip-color-superstay-24hr-2step-more-more-mocha-041554335897-t.jpg?thn=0&w=380&hash=549699837B0412D3CCC6BC24374A5A4D6964507B",
+        "alt": "Imagen Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#a4274e"
+      },
+      {
+        "colour": "#642d5f"
+      },
+      {
+        "colour": "#912030"
+      },
+      {
+        "colour": "#bd1f3e"
+      },
+      {
+        "colour": "#b16b5e"
+      },
+      {
+        "colour": "#da507b"
+      }
+    ]
+  },
+  {
+    "id_product": 27,
+    "id_category": 7,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "LABIAL EFECTO SATINADO",
+    "price": "3700",
+    "rating": null,
+    "stock": 12,
+    "description": "Labial en barra efecto satinado en colores impactantes.",
+    "benefits": "Efecto Satinado. Pigmentos Puros. Hidratación profunda. Enriquecido con néctar de miel.    ",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá el labial comenzando en el centro de tu labio superior."
+      },
+      {
+        "step": 2,
+        "description": "Esfúmalo desde el centro hacia el borde de tu labio siguiendo el contorno de tu boca."
+      },
+      {
+        "step": 3,
+        "description": "Repetí la técnica en el labio inferior."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-siren-in-scarlet-041554429954-o.jpg?thn=0&w=380&hash=FD5730C649408806ACDE13C7118F9055476CC717",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-siren-in-scarlet-041554429954-t.jpg?thn=0&w=380&hash=815CB0BE997FE561AF4E72CAD9C43EEEAD1905C7",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-color/color-sensational-lipcolor/maybelline-espana-labios-color-sensational-320-steamy-rose-a.jpg?rev=ecc6f34e4bca4b99bf4186e73645d856&cx=0&cy=0&cw=316&ch=475&hash=785563A51AB86F0AB309E030149458A8",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-color/color-sensational-lipcolor/maybelline-espana-labios-color-sensational-320-steamy-rose-t.jpg?rev=2d2984ecb697457fb107c670c9282345&cx=0&cy=0&cw=316&ch=475&hash=20806ABF6B6E5DAA940EDDC7493336CF",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-powder-matte-lipstick/maybelline-lipstick-color-sensational-powder-matte-nocturnal-rose-041554543186-o.jpg?thn=0&w=380&hash=C8C4B74A0447AAA5DC945C71015AF9B9A1C08286",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-powder-matte-lipstick/maybelline-lipstick-color-sensational-powder-matte-nocturnal-rose-041554543186-t.jpg?thn=0&w=380&hash=E70A57989209200B10445E57B69B68AC187C4251",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-divine-wine-041554429961-o.jpg?thn=0&w=380&hash=03657F49E6519BC901A1C77839664CF0AF1E9670",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-creamy-mattes/maybelline-lipstick-color-sensational-mattes-divine-wine-041554429961-t.jpg?thn=0&w=380&hash=A716A7FE7079F31D61D176EE7712353B79DA34AE",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/fuchsia-for-me.jpg?thn=0&w=380&hash=CFDAAFFA1D880C96BCE19A6FF81EB4DAF2A63227",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-color/color-sensational-made-for-all-lip-color/maybelline-lipstick-color-sensational-made-for-all-fuchsia-for-me-041554564860-t.jpg?rev=5346d8a5e5e844da970a4a49fe141518&cx=0&cy=0&cw=316&ch=475&hash=C94602C3B1BD3D9E61E8F19A043F4A46",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/pink-for-me.jpg?thn=0&w=380&hash=5EC62B1165E8B5E8367E10A4AB98969BE42AC5AB",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-labios/pink-for-me1.jpg?thn=0&w=380&hash=DAE4ACFD64411F12536EAB3A979417CF63FBE667",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-powder-matte-lipstick/maybelline-lipstick-color-sensational-powder-matte-cruel-ruby-041554543124-o.jpg?thn=0&w=380&hash=A132B2CEBD962C23D46534BA1497925FA6CF128B",
+        "alt": "Imagen Labial"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/global/lips-makeup/lip-color/color-sensational-powder-matte-lipstick/maybelline-lipstick-color-sensational-powder-matte-cruel-ruby-041554543124-t.jpg?thn=0&w=380&hash=C0B7243030C8F2A19977A781EA95AC517FAA1511",
+        "alt": "Imagen Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#771e27"
+      },
+      {
+        "colour": "#a0574e"
+      },
+      {
+        "colour": "#c37d8d"
+      },
+      {
+        "colour": "#ae292c"
+      },
+      {
+        "colour": "#b70003"
+      },
+      {
+        "colour": "#8e183a"
+      },
+      {
+        "colour": "#a1484c"
+      }
+    ]
+  },
+  {
+    "id_product": 28,
+    "id_category": 6,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "PERFILADOR LIP LINER",
+    "price": "2800",
+    "rating": null,
+    "stock": 22,
+    "description": "Consigue unos labios aún más voluptuosos, llenos de color y con una definición total.",
+    "benefits": "Su fórmula con pigmentos puros dará a tus labios un color sublime, haciendo que resalten y logrando un efecto más voluminoso.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Comienza desde el corazón del labio superior dibujando una 'V' y continúa el trazo hasta las comisuras."
+      },
+      {
+        "step": 2,
+        "description": "En el labio inferior, marca primero el centro del labio y luego continúa el trazo sonriendo para estirar bien la zona y conseguir un trazo más preciso."
+      },
+      {
+        "step": 3,
+        "description": "Aplica después un tono afín de tu barra Color Sensational para que los colores se fundan y el trazo se haga invisible."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-lip-liner/maybelline-espana-perfilador-de-labios-color-sensational-547-pleasure-me-red.jpg?rev=b05cd26c97f346b0aa245c6b2d7c03f6&cx=0&cy=0&cw=316&ch=475&hash=1A75A620541F99D8A9C6272ECE64AB2C",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-lip-liner/maybelline-espana-perfilador-de-labios-color-sensational-547-pleasure-me-red-lapiz.jpg?rev=477e14d805484ad59382d9912e7567fb&cx=0.45&cy=0.63&cw=316&ch=475&hash=B917F06E40FA3394386085D853A962DF",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-lip-liner/maybelline-espana-perfilador-de-labios-color-sensational-547-pleasure-me-red-textura.jpg?rev=bd7a32aa39764ff3adc259cf0a117613&cx=0&cy=0&cw=316&ch=475&hash=CC3E42561B3BB6F2DF7AF309603464E7",
+        "alt": "Imagen Delineador Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#771e27"
+      },
+      {
+        "colour": "#a0574e"
+      },
+      {
+        "colour": "#c37d8d"
+      },
+      {
+        "colour": "#ae292c"
+      },
+      {
+        "colour": "#b70003"
+      },
+      {
+        "colour": "#8e183a"
+      },
+      {
+        "colour": "#a1484c"
+      }
+    ]
+  },
+  {
+    "id_product": 29,
+    "id_category": 6,
+    "id_section": 2,
+    "brand": "Maybellyne",
+    "name": "SHAPING LIP LINER",
+    "price": "3500",
+    "rating": null,
+    "stock": 25,
+    "description": "Su fórmula con pigmentos puros dará a tus labios un color sublime, haciendo que resalten y logrando un efecto más voluminoso",
+    "benefits": "Define fácilmente la forma de los labios con este delineador de labios de fórmula cremosa. Combina tu delineador de labios con los pintalabios de Color Sensational® o atrévete a dar a tus labios un tono más oscuro. ¡Las posibilidades son infinitas!",
+    "application": [
+      {
+        "step": 1,
+        "description": "Comienza desde el corazón del labio superior dibujando una 'V' y continúa el trazo hasta las comisuras."
+      },
+      {
+        "step": 2,
+        "description": "En el labio inferior, marca primero el centro del labio y luego continúa el trazo sonriendo para estirar bien la zona y conseguir un trazo más preciso."
+      },
+      {
+        "step": 3,
+        "description": "Aplica después un tono afín de tu barra Color Sensational para que los colores se fundan y el trazo se haga invisible."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-brick-red-041554486131-o.jpg?rev=67ef60b277d945a68f93e67bfe0b867a&cx=0&cy=0&cw=316&ch=475&hash=C10234C04C2AE77FC21B7B12555CB064",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-brick-red-041554486131-t.jpg?rev=01f1c08b878541bab196f181a84a16e7&cx=0&cy=0&cw=316&ch=475&hash=F7E67BD5ACF2F844DA4DDD27DCC6AFC8",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-brick-red-041554486131-d.jpg?rev=aae63f71476c460180713981267a5092&cx=0&cy=0&cw=316&ch=475&hash=96A478413C87830FEAEF0BD4EAC97B05",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-nude-whisper-041554486049-o.jpg?rev=341e48492d38492cb5500b191c409629&cx=0&cy=0&cw=316&ch=475&hash=8BAA1507326E89760185F4DE6B48097F",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-nude-whisper-041554486049-t.jpg?rev=2d217e406b9d4744960eb0c7ede3741a&cx=0&cy=0&cw=316&ch=475&hash=8D7232FFFEC790957145743644B26C54",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-nude-whisper-041554486049-d.jpg?rev=f06ee15cd6ea4ab780de47500f0d8304&cx=0&cy=0&cw=316&ch=475&hash=A69AF1EE6406FB6C3E30639AA8546E75",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-palest-pink-041554486100-o.jpg?rev=a2d5806c7e334a46bb42c5c1ebdfd1fd&cx=0&cy=0&cw=316&ch=475&hash=AD61DEE7204CA19352DF4AD05C0AB90D",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-palest-pink-041554486100-t.jpg?rev=434f38234e8c46eca87042e70c92a93e&cx=0&cy=0&cw=316&ch=475&hash=CFF61BD93BABB974350A61F89E173F1C",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-palest-pink-041554486100-d.jpg?rev=6a311b3b5f0b4ca98e381171320155cb&cx=0&cy=0&cw=316&ch=475&hash=055C374FC0F1F94768D6FF8C69139134",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-rich-wine-041554492859-o.jpg?rev=8407379155934a0e8ea4a037d5ea3e67&cx=0&cy=0&cw=316&ch=475&hash=5D86794D314894226570A6108D51B168",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-rich-wine-041554492859-t.jpg?rev=9a3ef95f1eea4220b1bb6a3d01529aca&cx=0&cy=0&cw=316&ch=475&hash=F9A08048DAF63B29CEDED5310AB8F78A",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/lip-makeup/lip-liner/color-sensational-shaping-lip-liner/maybelline-color-sensational-mechanical-liner-rich-wine-041554492859-d.jpg?rev=d29c3279f7a743e589f92180516aee21&cx=0&cy=0&cw=316&ch=475&hash=52F8FFC2EFC84699E0AD735CB3AD5165",
+        "alt": "Imagen Delineador Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#8B0000"
+      },
+      {
+        "colour": "#D8BFD8"
+      },
+      {
+        "colour": "#900020"
+      },
+      {
+        "colour": "#771e27"
+      },
+      {
+        "colour": "#a0574e"
+      },
+      {
+        "colour": "#c37d8d"
+      },
+      {
+        "colour": "#ae292c"
+      },
+      {
+        "colour": "#b70003"
+      },
+      {
+        "colour": "#8e183a"
+      },
+      {
+        "colour": "#a1484c"
+      }
+    ]
+  },
+  {
+    "id_product": 30,
+    "id_category": 8,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "DREAM RADIANT",
+    "price": "6700",
+    "rating": null,
+    "stock": 35,
+    "description": "Dream® Radiant Liquid mejora visiblemente la apariencia de la piel, dejando un brillo natural que no querrás volver a perder. Esta base de maquillaje ligera, formulada con ácido hialurónico y colágeno, hidrata y suaviza la piel a la vez que le aporta una cobertura media y radiante.",
+    "benefits": "¡Prepárate para comerte la ciudad llena de luminosidad! Prueba esta cobertura media y radiante que tu piel no querrá volver a perder. Esta base de maquillaje ligera, formulada con ácido hialurónico y colágeno, hidrata la piel y le da una apariencia natural. Esta nueva fórmula, que aporta hasta 12 horas de hidratación, está disponible en 20 tonos diferentes y deja la piel suave y uniforme.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplícate esta base de maquillaje líquida sobre la piel y extiéndetela con la llema de los dedos, una esponja o una brocha de maquillaje."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/foundation/dream-radiant-liquid-nuevos-tonos/maybelline-rostro-base-maquillaje-dream-radiant-liquid-3-true-ivory-a.jpg?rev=be24c27701ce4948a918fdf9610fef6f&cx=0&cy=0&cw=316&ch=475&hash=E7EC13924AADEDCF6056594F563D7A01",
+        "alt": "Imagen Base"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/foundation/dream-radiant-liquid-nuevos-tonos/maybelline-rostro-base-maquillaje-dream-radiant-liquid-3-true-ivory-t.jpg?rev=a31de5da3529489591966e47c64e71f5&cx=0&cy=0&cw=316&ch=475&hash=8310BCF8AE24253D9DC7EDA7881A8203",
+        "alt": "Imagen Base"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/foundation/dream-radiant-liquid/maybelline-espana-face-foundation-dream-radiant-liquid-sun-beige-48-a.jpg?rev=720bc6d6f23442fba16ca220c44c5251&cx=0&cy=0&cw=316&ch=475&hash=75BF799E251B3237E1C89E38B253F3C7",
+        "alt": "Imagen Base"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/foundation/dream-radiant-liquid/maybelline-espana-face-foundation-dream-radiant-liquid-sun-beige-48-t.jpg?rev=d5bf1d75ebf34c039e69ba0475979348&cx=0&cy=0&cw=316&ch=475&hash=A94A7B51E9324A44B2A6BE5EA2300E9B",
+        "alt": "Imagen Base"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FFE4B5"
+      },
+      {
+        "colour": "#FAEBD7"
+      },
+
+      {
+        "colour": "#F5DEB3"
+      },
+      {
+        "colour": "#C2B280"
+      },
+      {
+        "colour": "#E5AA70"
+      },
+      {
+        "colour": "#F4A460"
+      },
+      {
+        "colour": "#E0AC69"
+      }
+    ]
+  },
+  {
+    "id_product": 31,
+    "id_category": 10,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "MASTER CONTOUR",
+    "price": "5000",
+    "rating": null,
+    "stock": 47,
+    "description": "Domina el contouring en modo fácil gracias al truco de la V. ¿Qué es el truco de la V? Esculpir e Iluminar el pómulo en 2 gestos. Marca, define e ilumina con el stick 2 en 1.",
+    "benefits": "Podrás esculpir e iluminar tu rostro con un solo producto. Su textura cremosa hará que la aplicación sea cómoda y suave. ¡Se difumina con el dedo!",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplica un fondo de maquillaje antes de empezar con el contouring"
+      },
+      {
+        "step": 2,
+        "description": "Esculpe en V debajo del pómulo con el tono oscuro."
+      },
+      {
+        "step": 3,
+        "description": "Ilumina justo por encima con el tono claro."
+      },
+      {
+        "step": 4,
+        "description": "¡Ya tienes el truco de la V! Paso 3. Difumina con los dedos."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-contouring-face-studio-master-contour-stick-light-41554481891-o.jpg?rev=ef227b3ad6564d6794a16d949fe9dd1b&sc_lang=es-es&cx=0.49&cy=0.57&cw=316&ch=475&hash=80B860DEA4C6E82491F660E845741505",
+        "alt": "Imagen Base Contorno"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-espana-maquillaje-rostro-contouring-master-contour-v-stick-light-textura.jpg?rev=2f91e9ac85eb471cae8def899bfea8c7&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=BF809FFAFF5CBFCCD0C6103EB728A6C8",
+        "alt": "Imagen Base Contorno"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-contouring-face-studio-master-contour-stick-deep-41554481914-o.jpg?rev=76dd6aa50a30407f934b76b55adc2f83&sc_lang=es-es&cx=0.53&cy=0.41&cw=316&ch=475&hash=67979B36EB076AE4E16CBE33E721C687",
+        "alt": "Imagen Base Contorno"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-espana-maquillaje-rostro-contouring-master-contour-v-stick-dark-textura.jpg?rev=c26aae2ded924814a519b0e2f8d6d831&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=9C4350EAEF42FB8B4D5C90155386C7B7",
+        "alt": "Imagen Base Contorno"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-contouring-face-studio-master-contour-stick-medium-41554481907-o.jpg?rev=e39f2e0476694ce499a77345a9ffb5ee&sc_lang=es-es&cx=0.41&cy=0.35&cw=316&ch=475&hash=78F620F8F3C29FCD7AEE52BD50BE17C4",
+        "alt": "Imagen Base Contorno"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/contouring/master-contour/maybelline-espana-maquillaje-rostro-contouring-master-contour-v-stick-medium-textura.jpg?rev=6b3969117d234551b7fc8e85ad21a766&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=59DB4A6372847EF4F3DCBF44AFA65D91",
+        "alt": "Imagen Base Contorno"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FFE4B5"
+      },
+      {
+        "colour": "#FAEBD7"
+      },
+
+      {
+        "colour": "#F5DEB3"
+      },
+      {
+        "colour": "#C2B280"
+      },
+      {
+        "colour": "#E5AA70"
+      },
+      {
+        "colour": "#F4A460"
+      },
+      {
+        "colour": "#E0AC69"
+      }
+    ]
+  },
+  {
+    "id_product": 32,
+    "id_category": 11,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "BORRADOR CORRECTOR",
+    "price": "5300",
+    "rating": null,
+    "stock": 25,
+    "description": "Instant Age Rewind® Eraser Dark Circles Treatment Concealer. El contorno de los ojos luce radiante y fresco al instante.",
+    "benefits": "Este corrector para las ojeras y las líneas finas da lugar de manera instantánea a un contorno de los ojos radiante y fresco. Con bayas de goji y Haloxyl™. Los envases pueden ser diferentes, es posible que lo que reciba no se corresponda con lo que aparece en la página.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Gira el cuello del aplicador hasta que se vea el antiojeras en la esponja (es posible que tenga que girar varias veces la primera vez)."
+      },
+      {
+        "step": 2,
+        "description": "Aplica el antiojeras en la zona por debajo de los ojos y extiéndelo."
+      },
+      {
+        "step": 3,
+        "description": "Para ojeras extremas, utiliza antes el antiojeras Neutralizer."
+      },
+      {
+        "step": 4,
+        "description": "Para conseguir una mayor luminosidad, aplícate el iluminador en el ángulo interno de los ojos, los pómulos, la línea de las cejas y el puente de la nariz."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/borrador-corrector_nuevos-packshots_mny/borrador_reno_2022-00-ivory.png?rev=86537187218542fb95d6ea4477f4debc&cx=0.51&cy=0.73&cw=316&ch=475&hash=41EFA87BE9EC9E4F4490FEDAD3FA8535",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer/maybelline-concealer-instant-age-rewind-eraser-dark-circles-treatment-ivory-041554546781-t.jpg?rev=18fd9229077346fcb784a4342b17e112&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=81DAB64095128CC924C6C6718C6A13AB",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/borrador-corrector_nuevos-packshots_mny/borrador_reno_2022-02-nude.png?rev=e03da66252814f648defa8197a50691e&cx=0.5&cy=0.58&cw=316&ch=475&hash=E1E229E5B6099474F2EC4D840A8639DD",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/maybelline-rostro-corrector-el-borrador-02-nude-t.jpg?rev=3f7be8d8bde54f2ab021577f96e51930&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=3483974EBC64C6BF8D67119E880A8F35",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/borrador-corrector_nuevos-packshots_mny/borrador_reno_2022-11-tan.png?rev=c1766aa553714097988f2e07ad34e390&cx=0.47&cy=0.58&cw=316&ch=475&hash=B15DB6F6A0E78A14D14C93A5343DC907",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer/maybelline-concealer-instant-age-rewind-eraser-dark-circles-treatment-tan-041554546828-t.jpg?rev=88b8701760224057aaa3b3b99bb8f863&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=EA4650691F44AC632E2025BC24DA3A53",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/borrador-corrector_nuevos-packshots_mny/borrador_06-neutralizer.png?rev=f884d422a40148aebc4c04f304e3a931&cx=0.47&cy=0.62&cw=316&ch=475&hash=20A4400505F227494F617CD1548D37E1",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer/maybelline-concealer-instant-age-rewind-dark-circles-neutralizer-041554267198-t.jpg?rev=dea54b307d4240fe8ffebffacfc7c48a&cx=0&cy=0&cw=316&ch=475&hash=6E836F71B790E4365F10D917501FAE30",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer-packshot/borrador-corrector_nuevos-packshots_mny/borrador_reno_2022-11-tan.png?rev=c1766aa553714097988f2e07ad34e390&cx=0.47&cy=0.58&cw=316&ch=475&hash=B15DB6F6A0E78A14D14C93A5343DC907",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/instant-age-rewind-concealer/maybelline-concealer-instant-age-rewind-eraser-dark-circles-treatment-tan-041554546828-t.jpg?rev=88b8701760224057aaa3b3b99bb8f863&sc_lang=es-es&cx=0&cy=0&cw=316&ch=475&hash=EA4650691F44AC632E2025BC24DA3A53",
+        "alt": "Imagen Base Correctora"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FFE4B5"
+      },
+      {
+        "colour": "#FAEBD7"
+      },
+
+      {
+        "colour": "#F5DEB3"
+      },
+      {
+        "colour": "#C2B280"
+      },
+      {
+        "colour": "#E5AA70"
+      },
+      {
+        "colour": "#F4A460"
+      },
+      {
+        "colour": "#E0AC69"
+      }
+    ]
+  },
+  {
+    "id_product": 33,
+    "id_category": 11,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "SUPERSTAY ACTIVE",
+    "price": "5100",
+    "rating": null,
+    "stock": 36,
+    "description": "El corrector que lo da todo: larga duración, alta cobertura y textura ultra ligera ¡hasta 30H! Su fórmula vegana es hidratante sin sensación de pesadez, no reseca ni cuartea. Además, no transfiere y desafía agua, roces, sudor...¡Dile adiós a tus ojeras y olvídate de retoques!",
+    "benefits": "¿Quieres sacarle el máximo partido a tu mirada? Aquí van nuestros consejos: Asegúrate de tener la piel hidratada para que el producto se adhiera mejor. Cuando hayas aplicado el corrector con su aplicador flexible, extiende el producto desde dentro hacia afuera. ¿Te apetece un efecto lifting en dos pasos? Aplica el producto en el punto del lagrimal inferior y en el extremo del párpado inferior y difumina.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplícate unas gotas de Superstay Active Wear Corrector 30H con su aplicador flexible para una aplicación precisa y fácil, extiéndelo con pequeños toques desde dentro hacia afuera del contorno de tus ojos."
+      },
+      {
+        "step": 2,
+        "description": "Apta para todo tipo de pieles. Como pequeño consejo, es esencial dar con el tono que mejor vaya con tu piel para conseguir una mirada impecable."
+      },
+      {
+        "step": 3,
+        "description": " ¡Tienes 30H para darlo todo!"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/maybelline-face-concealer-ss30h-5-ivory-a2.jpg?rev=57931f42d73a422481066e7172098640&cx=0.47&cy=0.58&cw=316&ch=475&hash=531CB04E18B0E99BF7D230E4301E207E",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/ss-active-wear-30h/maybelline-face-concealer-ss30h-5-ivory-t.jpg?rev=c791ceb009a644bf993bbba554d705e7&cx=0.63&cy=0.27&cw=316&ch=475&hash=766DCCFB52628CE7DB2A453BA939AE1B",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/maybelline-face-concealer-ss30h-45-tan-a.jpg?rev=c5da85ae985644dcaeade9f8a3346123&cx=0&cy=0&cw=316&ch=475&hash=48CA69F008405BEED12398425EDBE740",
+        "alt": "Imagen Base Correctora"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/face/concealer/ss-active-wear-30h/maybelline-face-concealer-ss30h-45-tan-t.jpg?rev=22e6634c80d1403eb291f3be6efaefd0&cx=0&cy=0&cw=316&ch=475&hash=372E1DBAFFC2FEA0B12244AC4F2DB447",
+        "alt": "Imagen Base Correctora"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FFE4B5"
+      },
+      {
+        "colour": "#FAEBD7"
+      },
+
+      {
+        "colour": "#F5DEB3"
+      },
+      {
+        "colour": "#C2B280"
+      },
+      {
+        "colour": "#E5AA70"
+      },
+      {
+        "colour": "#F4A460"
+      },
+      {
+        "colour": "#E0AC69"
+      }
+    ]
+  },
+  {
+    "id_product": 34,
+    "id_category": 11,
+    "id_section": 3,
+    "brand": "Maybellyne",
+    "name": "FIT ME MATTE + PORELESS FPS 22 BASE",
+    "price": "4000",
+    "rating": null,
+    "stock": 18,
+    "description": "La base Fit Me Matte + Poreless matifica la piel y refina los poros para un acabado naturalmente hermoso e impecable. Cobertura media construible. Se ajusta al tipo de piel y controla el brillo. Ahora cuenta con FPS 22.",
+    "benefits": "Ideal para la piel normal a grasa, nuestra exclusiva fórmula con micropolvos controla la grasa y difumina los poros para un acabado natural e impecable. Ahora cuenta con protección solar FPS 22.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplicá la base Fit Me y extendela por todo el rostro con la ayuda de la yema de tus dedos para lograr una cobertura pareja y uniforme. "
+      },
+      {
+        "step": 2,
+        "description": "Completá la rutina con el polvo compacto de la misma línea para sellar el maquillaje."
+      },
+      {
+        "step": 3,
+        "description": "Remové fácilmente con Agua Micelar."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/natural%20ivory/112_1.jpg?thn=0&w=380&hash=F8B55EA8D565B9955C5BCBE4FC5BD21CAA4ED096",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/light%20beige/118_1.jpg?thn=0&w=380&hash=B4F12CD0EF63E63B22B6D349761A3F21031E0080",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/natural%20beige/png/220_1.png?thn=0&w=380&hash=C7E1C12E1D85339990386454EE3461E4BC73C7DF",
+        "alt": "Imagen Base Líquida"
+      },
+
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/rich%20tan/238_1.jpg?thn=0&w=380&hash=871D2BEB7007B7348E2D7D41F2270D43C71AE808",
+        "alt": "Imagen Base Líquida"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/sun%20beige/310_1.jpg?thn=0&w=380&hash=A1CD8B086B74EBF7AB1799D3D17F7FCB473F6613",
+        "alt": "Imagen Base Líquida"
+      },
+
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-rostro/fit-me-matte-poreless/toffee%20caramel/330_1.jpg?thn=0&w=380&hash=5C6A95C1F9915E85D40ED4D99D3077C0502ADC81",
+        "alt": "Imagen Base Líquida"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#FCE4D6"
+      },
+      {
+        "colour": "#FFE0B2"
+      },
+      {
+        "colour": "#FFDAB9"
+      },
+      {
+        "colour": "#FFCBA4"
+      },
+      {
+        "colour": "#FFBB99"
+      },
+      {
+        "colour": "#FFAA80"
+      },
+      {
+        "colour": "#FF9966"
+      },
+      {
+        "colour": "#FF8C66"
+      },
+      {
+        "colour": "#E57373"
+      },
+      {
+        "colour": "#D68E7A"
+      },
+      {
+        "colour": "#A0522D"
+      },
+      {
+        "colour": "#8B4513"
+      },
+      {
+        "colour": "#704214"
+      }
+    ]
+  },
+  {
+    "id_product": 35,
+    "id_category": 16,
+    "id_section": 4,
+    "brand": "Maybellyne",
+    "name": "SUPERSTAY",
+    "price": "4200",
+    "rating": null,
+    "stock": 22,
+    "description": "Esmalte de uñas de larga duración con hierro y vitamina B5",
+    "benefits": "Su fórmula exclusiva contiene Hierro, calcio, silicio y Vitamina B5 que refuerza tus uñas frente a las agresiones externas. Gracias a su fórmula de larga duración, su color dura hasta 7 días sin descascarillarse.",
+    "application": [
+      {
+        "step": 1,
+        "description": "Aplica el esmalte primero en el centro de la uña, empezando por la base y hasta la punta y pinta seguidamente los laterales."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-180-tonos_760x1130.jpg?rev=7286b76cf4eb4671a13e73c28ffcd579&cx=0&cy=0&cw=316&ch=475&hash=504FA1D61B2A21A18F8B5918C2949E7A",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-006-tonos_760x1130.jpg?rev=5cf31927f2a9464789490648f76e049c&cx=0&cy=0&cw=316&ch=475&hash=7803EA865724CC1C6B53C893BC4594C2",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-008-tonos_760x1130.jpg?rev=ef5f8e224b4d418a94519033a5c19cca&cx=0&cy=0&cw=316&ch=475&hash=5BA57087743CB2DA5CCB14FB0663DCA3",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-025-tonos_760x1130.jpg?rev=029a9fc9ee274a77ae95f169f0c71cc8&cx=0&cy=0&cw=316&ch=475&hash=25C16278ABCDC9B8BA6707C34026010C",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-076-tonos_760x1130.jpg?rev=282534dab15249ce891ee009fd61b14e&cx=0&cy=0&cw=316&ch=475&hash=57BB7F08D5D2655D046A7650589E14F8",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-230-tonos_760x1130.jpg?rev=2620c26f039645f2bc69492d769d61b6&cx=0&cy=0&cw=316&ch=475&hash=56A4285855236347A4B6214941077E5D",
+        "alt": "Imagen Delineador Labial"
+      },
+
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-287-tonos_760x1130.jpg?rev=ad8c91d1c4484961a0ee0c194b28d3e6&cx=0&cy=0&cw=316&ch=475&hash=DCDAE0BBE69D89FE770D949DB91F4BDD",
+        "alt": "Imagen Delineador Labial"
+      },
+      {
+        "url": "https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/products/nails/color/superstay-7-dias/maybelline-espana-pintaunas-color-larga-duracion-superstay-7-dias-501-tonos_760x1130.jpg?rev=adc5276e1b284c16889bf29f42a1cb3a&cx=0&cy=0&cw=316&ch=475&hash=E9CBC9779C910A7B1882AF29F55098FA",
+        "alt": "Imagen Delineador Labial"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#8B0000"
+      },
+      {
+        "colour": "#D8BFD8"
+      },
+      {
+        "colour": "#900020"
+      },
+      {
+        "colour": "#771e27"
+      },
+      {
+        "colour": "#a0574e"
+      },
+      {
+        "colour": "#c37d8d"
+      },
+      {
+        "colour": "#ae292c"
+      },
+      {
+        "colour": "#b70003"
+      },
+      {
+        "colour": "#8e183a"
+      },
+      {
+        "colour": "#a1484c"
+      }
+    ]
+  },
+  {
+    "id_product": 36,
+    "id_category": 1,
+    "id_section": 1,
+    "brand": "Maybellyne",
+    "name": "TATTOO BROW GEL 3D GEL",
+    "price": "2200",
+    "rating": null,
+    "stock": 14,
+    "description": "Descubrí la nueva máscara de cejas Tattoo Brow 36h Styling Gel y conseguí unas cejas rellenas y controladas en 1 solo paso. Disponible en 5 tonos universales para que encuentres tu tono ideal. Gracias a su aplicador a prueba de principiantes y súper fácil de aplicar podrás decir adiós a los huequitos sin vello y a las cejas descontroladas. Su fórmula tattoo dura hasta 36h o hasta que decidas desmaquillártelas. ¿ Buscas un resultado natural, fácil y duradero? ¡Con Tattoo Brow 36h Styling Gel lo tenes!",
+    "benefits": "Elimina el maquillaje de tus cejas antes de aplicar para un resultado natural y limpio. Consejo: su fórmula tattoo pigmenta en una sola pasada así que limpia el exceso de fórmula antes de aplicar el producto, ¡no necesitas mucho pigmento para que funcione! ",
+    "application": [
+      {
+        "step": 1,
+        "description": "Limpia el exceso de producto del aplicador"
+      },
+      {
+        "step": 2,
+        "description": "Aplica el producto con su cepillo para principiantes peinando los vellitos en la dirección que quieras"
+      },
+      {
+        "step": 3,
+        "description": "¡Ya lo tenes! Cejas a prueba de todo hasta 36h."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/tattoo-brow-gel-46hs/shot%2013_us_760x1130.png?thn=0&w=380&hash=9EA0821B0D883D3DD1EF2E35565EB08401CA2F35",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/tattoo-brow-gel-46hs/warm%20brown__760x1130.png?thn=0&w=380&hash=45524479AC3B4E7457DE1F15E9570F2E7F8E5C40",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/tattoo-brow-gel-46hs/warm%20brown_760x1130.png?thn=0&w=380&hash=4A553C5F3FD870BFE485A3F1A6355B8DB479825C",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/tattoo-brow-gel-46hs/shot%2005_760x1130.png?thn=0&w=380&hash=1D31C95699A251EAB71E7A31B70563F5EC57CD43",
+        "alt": "Imagen Lápiz de cejas"
+      },
+      {
+        "url": "https://www.maybelline.com.ar/~/media/mny/latam/argentina/maquillaje-ojos/tattoo-brow-gel-46hs/mny-1h23-tattoo-brow-3day-med-brown-apply-evan_0301_760x1130.png?thn=0&w=380&hash=13E356E11194B4EDA1860A303DA4655325FD61C7",
+        "alt": "Imagen Lápiz de cejas"
+      }
+    ],
+    "colors": [
+      {
+        "colour": "#9D786D"
+      },
+      {
+        "colour": "#855839"
+      },
+      {
+        "colour": "#452820"
+      }
+    ]
+  }
+]

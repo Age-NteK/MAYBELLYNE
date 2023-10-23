@@ -1,0 +1,66 @@
+[
+  {
+    "id_category": 1,
+    "name": "Cejas"
+  },
+  {
+    "id_category": 2,
+    "name": "Delineador"
+  },
+  {
+    "id_category": 3,
+    "name": "Máscaras"
+  },
+  {
+    "id_category": 4,
+    "name": "Sombras"
+  },
+  {
+    "id_category": 5,
+    "name": "Brillo Labial"
+  },
+  {
+    "id_category": 6,
+    "name": "Delineador Labial"
+  },
+  {
+    "id_category": 7,
+    "name": "Labiales"
+  },
+  {
+    "id_category": 8,
+    "name": "Base"
+  },
+  {
+    "id_category": 10,
+    "name": "Contorno"
+  },
+  {
+    "id_category": 11,
+    "name": "Corrector"
+  },
+  {
+    "id_category": 12,
+    "name": "Iluminador"
+  },
+  {
+    "id_category": 13,
+    "name": "Polvo"
+  },
+  {
+    "id_category": 14,
+    "name": "Prebase"
+  },
+  {
+    "id_category": 15,
+    "name": "Rubor"
+  },
+  {
+    "id_category": 16,
+    "name": "Fijador"
+  },
+  {
+    "id_category": 16,
+    "name": "Esmaltes"
+  }
+]

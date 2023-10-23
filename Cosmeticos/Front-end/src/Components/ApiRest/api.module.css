@@ -1,0 +1,78 @@
+.container_api h1 {
+  margin-top: 50px;
+  font-size: 120px;
+  letter-spacing: 5px;
+  font-weight: bold;
+  background-color: black;
+  padding: 15px;
+  color: rgb(255, 213, 220);
+}
+
+.api_section {
+  border: 3px solid rgb(255, 148, 166);
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 30px;
+  margin: 20px;
+}
+
+.container_api h3 {
+  background-color: rgb(255, 213, 220);
+  font-size: 19px;
+  letter-spacing: 3px;
+  padding: 5px;
+}
+
+.container_api h2 {
+  color: rgb(255, 148, 166);
+  font-size: 45px;
+  padding-bottom: 25px;
+  font-weight: bold;
+}
+
+.container_api h5 {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.container_api a {
+  font-size: 23px;
+}
+
+.container_api p {
+  font-size: 21px;
+}
+
+.api_info {
+  display: flex;
+  justify-content: center;
+}
+
+.api_info a {
+  padding-right: 30px;
+}
+
+.api_rutas {
+  display: flex;
+  justify-content: center;
+}
+
+.api_rutas p {
+  padding-right: 10px;
+}
+
+.nota {
+  margin-top: 40px;
+  padding: 10px;
+  background-color: rgba(255, 179, 191, 0.935);
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(255, 148, 166);
+}
+
+.nota p {
+  font-size: 16px;
+}
+
+.nota a {
+  font-size: 16px;
+}

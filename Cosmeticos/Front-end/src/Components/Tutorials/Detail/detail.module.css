@@ -1,0 +1,36 @@
+.detail_container {
+  color: black;
+}
+
+.detail_container h1 {
+  font-size: 90px;
+  font-weight: bold;
+  margin-top: 55px;
+  padding-bottom: 20px;
+}
+
+.detail_container img {
+  max-width: 700px;
+  max-height: 600px;
+  padding: 10px;
+  border: 1px solid gray;
+  background-color: black;
+}
+
+.detail_container h2 {
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 70px;
+  padding-bottom: 10px;
+}
+.detail_container p {
+  font-size: 20px;
+  padding-bottom: 30px;
+  margin: 40px;
+}
+
+.detail_container svg {
+  margin-top: 40px;
+  margin: 50px;
+  margin-bottom: -40px;
+}
