@@ -11,7 +11,6 @@
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a48a1e39-a382-4a59-befa-a31137fa5a41)
 
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/5ddc8742-3b32-4016-b0d6-0a3b65044b1d)
 
 ## 🌹 MÁS VENDIDOS 🌹
 - Descubre nuestros productos más populares y queridos por nuestros clientes. Encuentra los favoritos de Maybelline y descubre por qué son tan apreciados.
