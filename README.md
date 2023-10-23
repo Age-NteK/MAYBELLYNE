@@ -34,11 +34,6 @@
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/db19e9c0-3018-4fdc-8048-1f9cebda7149)
 
 
-## 🌹 FOOTER 🌹
-- El footer de la aplicación brinda a los usuarios acceso rápido a información relevante y funciones esenciales. 
-
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ff014086-7218-4a05-8f57-43e796cb1f82)
-
 ## 🌹 TÉRMINOS Y CONDICIONES 🌹
 - Lee nuestros términos y condiciones para obtener información sobre cómo utilizamos tus datos y cómo trabajamos en Maybelline Beauty Hub.
 
@@ -58,6 +53,11 @@
 - Accede a nuestra API REST para obtener información actualizada sobre nuestros productos y accesorios de belleza.
 - 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/81ce9952-1696-422b-89b7-c3331a2fd1c5)
+
+## 🌹 FOOTER 🌹
+- El footer de la aplicación brinda a los usuarios acceso rápido a información relevante y funciones esenciales. 
+
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/ff014086-7218-4a05-8f57-43e796cb1f82)
 
 
 ## 🌹 CARRITO DE COMPRAS 🌹
