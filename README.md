@@ -32,7 +32,6 @@
 - Aprende a lucir increíble con nuestros tutoriales de belleza. Desde consejos de maquillaje hasta rutinas de cuidado de la piel, te ayudaremos a destacar.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/db19e9c0-3018-4fdc-8048-1f9cebda7149)
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/2b638db6-c228-43a4-9104-c9a610454ec3)
 
 
 ## 🌹 FOOTER 🌹
